@@ -1,0 +1,1745 @@
+<!DOCTYPE html>
+<!-- saved from url=(0025)https://mercadosplus.com/ -->
+<html lang="es" data-select2-id="68"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+
+	
+
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+	<link rel="profile" href="https://gmpg.org/xfn/11">
+
+	<title>Home | Mercados Plus</title>
+<meta name="robots" content="max-image-preview:large">
+<noscript><style>#preloader{display:none;}</style></noscript><link rel="dns-prefetch" href="https://fonts.googleapis.com/">
+<link rel="alternate" type="application/rss+xml" title="Mercados Plus » Feed" href="https://mercadosplus.com/feed/">
+<link rel="alternate" type="application/rss+xml" title="Mercados Plus » Feed de los comentarios" href="https://mercadosplus.com/comments/feed/">
+<script type="text/javascript">
+window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/mercadosplus.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=6.2.2"}};
+/*! This file is auto-generated */
+!function(e,a,t){var n,r,o,i=a.createElement("canvas"),p=i.getContext&&i.getContext("2d");function s(e,t){p.clearRect(0,0,i.width,i.height),p.fillText(e,0,0);e=i.toDataURL();return p.clearRect(0,0,i.width,i.height),p.fillText(t,0,0),e===i.toDataURL()}function c(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(o=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},r=0;r<o.length;r++)t.supports[o[r]]=function(e){if(p&&p.fillText)switch(p.textBaseline="top",p.font="600 32px Arial",e){case"flag":return s("\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f","\ud83c\udff3\ufe0f\u200b\u26a7\ufe0f")?!1:!s("\ud83c\uddfa\ud83c\uddf3","\ud83c\uddfa\u200b\ud83c\uddf3")&&!s("\ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc65\udb40\udc6e\udb40\udc67\udb40\udc7f","\ud83c\udff4\u200b\udb40\udc67\u200b\udb40\udc62\u200b\udb40\udc65\u200b\udb40\udc6e\u200b\udb40\udc67\u200b\udb40\udc7f");case"emoji":return!s("\ud83e\udef1\ud83c\udffb\u200d\ud83e\udef2\ud83c\udfff","\ud83e\udef1\ud83c\udffb\u200b\ud83e\udef2\ud83c\udfff")}return!1}(o[r]),t.supports.everything=t.supports.everything&&t.supports[o[r]],"flag"!==o[r]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[o[r]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(e=t.source||{}).concatemoji?c(e.concatemoji):e.wpemoji&&e.twemoji&&(c(e.twemoji),c(e.wpemoji)))}(window,document,window._wpemojiSettings);
+</script><script src="./Home _ Mercados Plus_files/wp-emoji-release.min.js.descarga" type="text/javascript" defer=""></script>
+<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 0.07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel="stylesheet" id="wp-block-library-css" href="./Home _ Mercados Plus_files/style.min.css" type="text/css" media="all">
+<link rel="stylesheet" id="classic-theme-styles-css" href="./Home _ Mercados Plus_files/classic-themes.min.css" type="text/css" media="all">
+<style id="global-styles-inline-css" type="text/css">
+body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--duotone--dark-grayscale: url('#wp-duotone-dark-grayscale');--wp--preset--duotone--grayscale: url('#wp-duotone-grayscale');--wp--preset--duotone--purple-yellow: url('#wp-duotone-purple-yellow');--wp--preset--duotone--blue-red: url('#wp-duotone-blue-red');--wp--preset--duotone--midnight: url('#wp-duotone-midnight');--wp--preset--duotone--magenta-yellow: url('#wp-duotone-magenta-yellow');--wp--preset--duotone--purple-green: url('#wp-duotone-purple-green');--wp--preset--duotone--blue-orange: url('#wp-duotone-blue-orange');--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgba(255, 255, 255, 1), 6px 6px rgba(0, 0, 0, 1);--wp--preset--shadow--crisp: 6px 6px 0px rgba(0, 0, 0, 1);}:where(.is-layout-flex){gap: 0.5em;}body .is-layout-flow > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-flow > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-flow > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-constrained > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-constrained > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > :where(:not(.alignleft):not(.alignright):not(.alignfull)){max-width: var(--wp--style--global--content-size);margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignwide{max-width: var(--wp--style--global--wide-size);}body .is-layout-flex{display: flex;}body .is-layout-flex{flex-wrap: wrap;align-items: center;}body .is-layout-flex > *{margin: 0;}:where(.wp-block-columns.is-layout-flex){gap: 2em;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+.wp-block-navigation a:where(:not(.wp-element-button)){color: inherit;}
+:where(.wp-block-columns.is-layout-flex){gap: 2em;}
+.wp-block-pullquote{font-size: 1.5em;line-height: 1.6;}
+</style>
+<link rel="stylesheet" id="contact-form-7-css" href="./Home _ Mercados Plus_files/styles.css" type="text/css" media="all">
+<link rel="stylesheet" id="elementor-icons-css" href="./Home _ Mercados Plus_files/elementor-icons.min.css" type="text/css" media="all">
+<link rel="stylesheet" id="elementor-frontend-css" href="./Home _ Mercados Plus_files/frontend-lite.min.css" type="text/css" media="all">
+<link rel="stylesheet" id="swiper-css" href="./Home _ Mercados Plus_files/swiper.min.css" type="text/css" media="all">
+<link rel="stylesheet" id="elementor-post-55-css" href="./Home _ Mercados Plus_files/post-55.css" type="text/css" media="all">
+<link rel="stylesheet" id="elementor-global-css" href="./Home _ Mercados Plus_files/global.css" type="text/css" media="all">
+<link rel="stylesheet" id="elementor-post-53-css" href="./Home _ Mercados Plus_files/post-53.css" type="text/css" media="all">
+<link rel="stylesheet" id="directorist-openstreet-map-leaflet-css" href="./Home _ Mercados Plus_files/leaflet.css" type="text/css" media="all">
+<link rel="stylesheet" id="directorist-openstreet-map-openstreet-css" href="./Home _ Mercados Plus_files/openstreet.css" type="text/css" media="all">
+<link rel="stylesheet" id="directorist-main-style-css" href="./Home _ Mercados Plus_files/public-main.css" type="text/css" media="all">
+<link rel="stylesheet" id="directorist-select2-style-css" href="./Home _ Mercados Plus_files/select2.css" type="text/css" media="all">
+<link rel="stylesheet" id="directorist-ez-media-uploader-style-css" href="./Home _ Mercados Plus_files/ez-media-uploader.css" type="text/css" media="all">
+<link rel="stylesheet" id="directorist-slick-style-css" href="./Home _ Mercados Plus_files/slick.css" type="text/css" media="all">
+<link rel="stylesheet" id="directorist-sweetalert-style-css" href="./Home _ Mercados Plus_files/sweetalert.css" type="text/css" media="all">
+<link rel="stylesheet" id="csf-google-web-fonts-css" href="./Home _ Mercados Plus_files/css" type="text/css" media="all">
+<link rel="stylesheet" id="bootstrap-css" href="./Home _ Mercados Plus_files/bootstrap.min.css" type="text/css" media="all">
+<link rel="stylesheet" id="onelisting-directorist-css" href="./Home _ Mercados Plus_files/directorist.css" type="text/css" media="all">
+<link rel="stylesheet" id="onelisting-elementor-css" href="./Home _ Mercados Plus_files/elementor.css" type="text/css" media="all">
+<link rel="stylesheet" id="onelisting-style-css" href="./Home _ Mercados Plus_files/style.css" type="text/css" media="all">
+<style id="onelisting-style-inline-css" type="text/css">
+.banner{background:url(https://mercadosplus.com/wp-content/themes/onelisting/assets/img/banner.jpg) no-repeat scroll center center / cover;}.header-bgimg .banner:before{background-color: #05071D; opacity: 0.6;} body, gtnbg_root, input, gtnbg_root p { font-family: 'Roboto', sans-serif; font-size: 16px; font-weight : 400; } h1, h1.gtnbg_suffix { font-family: 'Roboto', sans-serif; font-size: 30px; font-weight : 600; } h2, h2.gtnbg_suffix { font-family: 'Roboto', sans-serif; font-size: 24px; font-weight : 600; } h3, h3.gtnbg_suffix { font-family: 'Roboto', sans-serif; font-size: 22px; font-weight : 600; } h4, h4.gtnbg_suffix { font-family: 'Roboto', sans-serif; font-size: 20px; font-weight : 600; } h5, h5.gtnbg_suffix { font-family: 'Roboto', sans-serif; font-size: 18px; font-weight : 600; } h6, h6.gtnbg_suffix { font-family: 'Roboto', sans-serif; font-size: 16px; font-weight : 600; } :root {   --color-primary: #f51957;;   --color-primary-rgba: 245, 25, 87;   --color-primary-rgb-1: rgb(245, 25, 87, 0.1) ;   --color-primary-rgb-05: rgb(245, 25, 87, 0.05);   --color-primary-rgb-15: rgb(245, 25, 87, 0.15);   --color-menu: #51526e;   --color-menu-hover: #f51957;;   --color-menu-active: #f51957;;   --color-add-listing-button-text: #ffffff;   --color-add-listing-button-text-hover: #ffffff;   --bgcolor-add-listing-button: #f51957;;   --bgcolor-add-listing-button-hover: #f51957;;   --banner-bg-opacity: 60;   --color-banner_title: #ffffff;   --color-breadcrumb-link: #f8f9fb;   --color-breadcrumb-link-hover: #f51957;;   --color-breadcrumb-active: #acabac;   --color-breadcrumb_separator: #f8f9fb;   --bgcolor-footer: #ffffff;   --color-footer-divider: #eff1f6;   --color-footer-title: #1a1b29;   --color-footer-text: #605f74;   --color-footer-link: #51526e;   --color-footer-link-hover: #f51957;; }
+</style>
+<link rel="stylesheet" id="google-fonts-1-css" href="./Home _ Mercados Plus_files/css(1)" type="text/css" media="all">
+<link rel="stylesheet" id="elementor-icons-shared-0-css" href="./Home _ Mercados Plus_files/fontawesome.min.css" type="text/css" media="all">
+<link rel="stylesheet" id="elementor-icons-fa-solid-css" href="./Home _ Mercados Plus_files/solid.min.css" type="text/css" media="all">
+<link rel="preconnect" href="https://fonts.gstatic.com/" crossorigin=""><script type="text/javascript" id="jquery-core-js-extra">
+/* <![CDATA[ */
+var directorist = {"nonce":"6c67f093fa","directorist_nonce":"c4b229e600","ajax_nonce":"7892b39463","is_admin":"","ajaxurl":"https:\/\/mercadosplus.com\/wp-admin\/admin-ajax.php","assets_url":"https:\/\/mercadosplus.com\/wp-content\/plugins\/directorist\/assets\/","home_url":"https:\/\/mercadosplus.com","rest_url":"https:\/\/mercadosplus.com\/wp-json\/","nonceName":"atbdp_nonce_js","login_alert_message":"Lo sentimos, primero debes acceder.","rtl":"false","warning":"\u00a1ADVERTENCIA!","success":"\u00a1CORRECTO!","not_add_more_than_one":"No puedes a\u00f1adir m\u00e1s de una valoraci\u00f3n. \u00a1Actualiza la p\u00e1gina para editar o eliminar tu valoraci\u00f3n!,","duplicate_review_error":"\u00a1Lo siento! Tu valoraci\u00f3n ya est\u00e1 en proceso.","review_success":"\u00a1Valoraciones guardadas correctamente!","review_approval_text":"We have received your review. It requires approval.","review_error":"Se ha producido un error. Comprueba el formulario e int\u00e9ntalo de nuevo.","review_loaded":"\u00a1Valoraciones cargadas!","review_not_available":"\u00a1NO HAY M\u00c1S VALORACIONES DISPONIBLES!","review_have_not_for_delete":"No tienes ninguna rese\u00f1a para borrar. \u00a1Actualiza la p\u00e1gina para enviar una nueva rese\u00f1a!","review_sure_msg":"\u00bfEst\u00e1s seguro?","review_want_to_remove":"\u00bfEst\u00e1s seguro de que quieres borrar este anuncio?","review_delete_msg":"\u00a1S\u00ed, b\u00f3rralo!","review_cancel_btn_text":"Cancelar","review_wrong_msg":"\u00a1Algo sali\u00f3 mal! Int\u00e9ntalo otra vez","listing_remove_title":"\u00bfEst\u00e1s seguro?","listing_remove_text":"\u00bfSeguro que quieres borrar este elemento?","listing_remove_confirm_text":"\u00a1S\u00ed, b\u00f3rralo!","listing_delete":"\u00a1Borrado!","listing_error_title":"\u00a1Error!","listing_error_text":"Algo sali\u00f3 mal. Int\u00e9ntalo de nuevo.","upload_pro_pic_title":"Seleccionar o subir una foto de perfil","upload_pro_pic_text":"Usar esta im\u00e1gen","payNow":"Pagar ahora","completeSubmission":"Completar env\u00edo","waiting_msg":"Enviando el mensaje, espera ...","plugin_url":"https:\/\/mercadosplus.com\/wp-content\/plugins\/directorist\/","currentDate":"7 septiembre, 2021","enable_reviewer_content":"1","add_listing_data":{"nonce":"6c67f093fa","ajaxurl":"https:\/\/mercadosplus.com\/wp-admin\/admin-ajax.php","nonceName":"atbdp_nonce_js","is_admin":false,"media_uploader":[{"element_id":"directorist-image-upload","meta_name":"listing_img","files_meta_name":"files_meta","error_msg":"La galer\u00eda de anuncios tiene archivos no v\u00e1lidos"}],"i18n_text":{"see_more_text":"Ver m\u00e1s","see_less_text":"See Less","confirmation_text":"\u00bfEstas seguro?","ask_conf_sl_lnk_del_txt":"\u00a1Realmente desea eliminar este enlace social!","ask_conf_faqs_del_txt":"\u00bfSeguro que quieres borrar estas FAQ?","confirm_delete":"\u00a1S\u00ed, b\u00f3rralo!","deleted":"\u00a1Borrado!","max_location_creation":"","max_location_msg":"Solo puedes usar "},"create_new_tag":"","create_new_loc":"","create_new_cat":"","image_notice":"\u00a1Lo siento! Has superado el l\u00edmite m\u00e1ximo de im\u00e1genes"},"lazy_load_taxonomy_fields":"","current_page_id":"53","icon_markup":"<i class=\"directorist-icon-mask ##CLASS##\" aria-hidden=\"true\" style=\"--directorist-icon: url(##URL##)\"><\/i>","script_debugging":[null],"ajax_url":"https:\/\/mercadosplus.com\/wp-admin\/admin-ajax.php","redirect_url":"https:\/\/mercadosplus.com\/dashboard\/","loading_message":"Enviando informaci\u00f3n del usuario. Por favor, espera...","login_error_message":"Nombre de usuario o contrase\u00f1a incorrectos.","i18n_text":{"category_selection":"Seleccionar una categor\u00eda","location_selection":"Seleccione una ubicaci\u00f3n","show_more":"Mostrar m\u00e1s","show_less":"Mostrar menos","added_favourite":"A\u00f1adir a favoritos","please_login":"Por favor, accede primero","select_listing_map":"openstreet","Miles":"Millas"},"args":{"directory_type_id":""},"directory_type":"","directory_type_term_data":{"submission_form_fields":false,"search_form_fields":false},"miles":"Millas","default_val":"0","countryRestriction":"","restricted_countries":"","use_def_lat_long":"1","ajaxnonce":"7892b39463"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="./Home _ Mercados Plus_files/jquery.min.js.descarga" id="jquery-core-js"></script>
+<script type="text/javascript" src="./Home _ Mercados Plus_files/jquery-migrate.min.js.descarga" id="jquery-migrate-js"></script>
+<script type="text/javascript" id="onelisting-main-js-extra">
+/* <![CDATA[ */
+var onelisting_localize_data = {"ajaxurl":"https:\/\/mercadosplus.com\/wp-admin\/admin-ajax.php","resmenuWidth":"991","category_colors":{"98":"482ff7","73":"482ff7","72":"46c3db","67":"fc5185","75":"1e73be","68":"9c1de7","69":"17b978","70":"cb3b3b","71":"ffaf4f","66":"0b8457","102":"46c3db","100":"fc5185","97":"9c1de7","114":"482ff7","116":"7a57d1","99":"17b978","101":"cb3b3b","115":"46c3db","113":"17b978","103":"ffaf4f","96":"0b8457","117":"cb3b3b"},"category_icons":{"98":"https:\/\/mercadosplus.com\/wp-content\/plugins\/directorist\/assets\/icons\/line-awesome\/svgs\/car-side-solid.svg","73":"https:\/\/mercadosplus.com\/wp-content\/plugins\/directorist\/assets\/icons\/line-awesome\/svgs\/utensils-solid.svg","72":"https:\/\/mercadosplus.com\/wp-content\/plugins\/directorist\/assets\/icons\/line-awesome\/svgs\/utensils-solid.svg","67":"https:\/\/mercadosplus.com\/wp-content\/plugins\/directorist\/assets\/icons\/line-awesome\/svgs\/utensils-solid.svg","75":"https:\/\/mercadosplus.com\/wp-content\/plugins\/directorist\/assets\/icons\/line-awesome\/svgs\/building-solid.svg","68":"https:\/\/mercadosplus.com\/wp-content\/plugins\/directorist\/assets\/icons\/line-awesome\/svgs\/utensils-solid.svg","69":"https:\/\/mercadosplus.com\/wp-content\/plugins\/directorist\/assets\/icons\/line-awesome\/svgs\/utensils-solid.svg","70":"https:\/\/mercadosplus.com\/wp-content\/plugins\/directorist\/assets\/icons\/line-awesome\/svgs\/utensils-solid.svg","71":"https:\/\/mercadosplus.com\/wp-content\/plugins\/directorist\/assets\/icons\/line-awesome\/svgs\/utensils-solid.svg","66":"https:\/\/mercadosplus.com\/wp-content\/plugins\/directorist\/assets\/icons\/line-awesome\/svgs\/utensils-solid.svg","102":"https:\/\/mercadosplus.com\/wp-content\/plugins\/directorist\/assets\/icons\/line-awesome\/svgs\/hamburger-solid.svg","100":"https:\/\/mercadosplus.com\/wp-content\/plugins\/directorist\/assets\/icons\/line-awesome\/svgs\/dumbbell-solid.svg","97":"https:\/\/mercadosplus.com\/wp-content\/plugins\/directorist\/assets\/icons\/line-awesome\/svgs\/home-solid.svg","114":"https:\/\/mercadosplus.com\/wp-content\/plugins\/directorist\/assets\/icons\/line-awesome\/svgs\/industry-solid.svg","116":"https:\/\/mercadosplus.com\/wp-content\/plugins\/directorist\/assets\/icons\/line-awesome\/svgs\/landmark-solid.svg","99":"https:\/\/mercadosplus.com\/wp-content\/plugins\/directorist\/assets\/icons\/line-awesome\/svgs\/snowboarding-solid.svg","101":"https:\/\/mercadosplus.com\/wp-content\/plugins\/directorist\/assets\/icons\/line-awesome\/svgs\/map-marked-solid.svg","115":"https:\/\/mercadosplus.com\/wp-content\/plugins\/directorist\/assets\/icons\/line-awesome\/svgs\/seedling-solid.svg","113":"https:\/\/mercadosplus.com\/wp-content\/plugins\/directorist\/assets\/icons\/line-awesome\/svgs\/city-solid.svg","103":"https:\/\/mercadosplus.com\/wp-content\/plugins\/directorist\/assets\/icons\/line-awesome\/svgs\/cut-solid.svg","96":"https:\/\/mercadosplus.com\/wp-content\/plugins\/directorist\/assets\/icons\/line-awesome\/svgs\/store-alt-solid.svg","117":"https:\/\/mercadosplus.com\/wp-content\/plugins\/directorist\/assets\/icons\/line-awesome\/svgs\/campground-solid.svg"}};
+/* ]]> */
+</script>
+<script type="text/javascript" src="./Home _ Mercados Plus_files/main.js.descarga" id="onelisting-main-js"></script>
+<link rel="https://api.w.org/" href="https://mercadosplus.com/wp-json/"><link rel="alternate" type="application/json" href="https://mercadosplus.com/wp-json/wp/v2/pages/53"><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://mercadosplus.com/xmlrpc.php?rsd">
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://mercadosplus.com/wp-includes/wlwmanifest.xml">
+<link rel="canonical" href="https://mercadosplus.com/">
+<link rel="shortlink" href="https://mercadosplus.com/">
+<link rel="alternate" type="application/json+oembed" href="https://mercadosplus.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fmercadosplus.com%2F">
+<link rel="alternate" type="text/xml+oembed" href="https://mercadosplus.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fmercadosplus.com%2F&amp;format=xml">
+<meta name="generator" content="Elementor 3.15.0; features: e_dom_optimization, e_optimized_assets_loading, e_optimized_css_loading, additional_custom_breakpoints; settings: css_print_method-external, google_font-enabled, font_display-auto">
+                <meta name="description" content="Explore the world General Real Estate Restaurant Select CategoryAutomotiveFoodGym &amp; FitnessHomesOutdoor ActivitiesPlaceSalonShopping $ $$ $$$ $$$$...">
+                                <meta property="&quot;og:site_name&quot;" content="&quot;Mercados" plus&quot;="">
+                                    <meta property="&quot;og:title&quot;" content="&quot;Home" |="" mercados="" plus&quot;="">
+                                    <meta property="&quot;og:description&quot;" content="&quot;Explore" the="" world="" general="" real="" estate="" restaurant="" select="" categoryautomotivefoodgym="" &amp;="" fitnesshomesoutdoor="" activitiesplacesalonshopping="" &#036;="" &#036;&#036;="" &#036;&#036;&#036;="" &#036;&#036;&#036;&#036;...&quot;="">
+                                    <meta name="&quot;twitter:card&quot;" content="&quot;summary_large_image&quot;">
+                                    <meta property="&quot;twitter:title&quot;" content="&quot;Home" |="" mercados="" plus&quot;="">
+                                    <meta property="&quot;twitter:description&quot;" content="&quot;Explore" the="" world="" general="" real="" estate="" restaurant="" select="" categoryautomotivefoodgym="" &amp;="" fitnesshomesoutdoor="" activitiesplacesalonshopping="" &#036;="" &#036;&#036;="" &#036;&#036;&#036;="" &#036;&#036;&#036;&#036;...&quot;="">
+                <link rel="icon" href="https://mercadosplus.com/wp-content/uploads/2023/06/m-e1685674619587-60x60.png" sizes="32x32">
+<link rel="icon" href="https://mercadosplus.com/wp-content/uploads/2023/06/m-e1685674619587.png" sizes="192x192">
+<link rel="apple-touch-icon" href="https://mercadosplus.com/wp-content/uploads/2023/06/m-e1685674619587.png">
+<meta name="msapplication-TileImage" content="https://mercadosplus.com/wp-content/uploads/2023/06/m-e1685674619587.png">
+
+</head>
+
+<body class="home page-template page-template-elementor_header_footer page page-id-53 wp-custom-logo no-sidebar header-bgimg theme-single-page theme-dir-home theme-dir-all-listing elementor-default elementor-template-full-width elementor-kit-55 elementor-page elementor-page-53 directorist-content-active e--ua-blink e--ua-chrome e--ua-webkit" data-elementor-device-mode="desktop" data-select2-id="67">
+
+	<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;"><defs><filter id="wp-duotone-dark-grayscale"><fecolormatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 "></fecolormatrix><fecomponenttransfer color-interpolation-filters="sRGB"><fefuncr type="table" tableValues="0 0.49803921568627"></fefuncr><fefuncg type="table" tableValues="0 0.49803921568627"></fefuncg><fefuncb type="table" tableValues="0 0.49803921568627"></fefuncb><fefunca type="table" tableValues="1 1"></fefunca></fecomponenttransfer><fecomposite in2="SourceGraphic" operator="in"></fecomposite></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;"><defs><filter id="wp-duotone-grayscale"><fecolormatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 "></fecolormatrix><fecomponenttransfer color-interpolation-filters="sRGB"><fefuncr type="table" tableValues="0 1"></fefuncr><fefuncg type="table" tableValues="0 1"></fefuncg><fefuncb type="table" tableValues="0 1"></fefuncb><fefunca type="table" tableValues="1 1"></fefunca></fecomponenttransfer><fecomposite in2="SourceGraphic" operator="in"></fecomposite></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;"><defs><filter id="wp-duotone-purple-yellow"><fecolormatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 "></fecolormatrix><fecomponenttransfer color-interpolation-filters="sRGB"><fefuncr type="table" tableValues="0.54901960784314 0.98823529411765"></fefuncr><fefuncg type="table" tableValues="0 1"></fefuncg><fefuncb type="table" tableValues="0.71764705882353 0.25490196078431"></fefuncb><fefunca type="table" tableValues="1 1"></fefunca></fecomponenttransfer><fecomposite in2="SourceGraphic" operator="in"></fecomposite></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;"><defs><filter id="wp-duotone-blue-red"><fecolormatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 "></fecolormatrix><fecomponenttransfer color-interpolation-filters="sRGB"><fefuncr type="table" tableValues="0 1"></fefuncr><fefuncg type="table" tableValues="0 0.27843137254902"></fefuncg><fefuncb type="table" tableValues="0.5921568627451 0.27843137254902"></fefuncb><fefunca type="table" tableValues="1 1"></fefunca></fecomponenttransfer><fecomposite in2="SourceGraphic" operator="in"></fecomposite></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;"><defs><filter id="wp-duotone-midnight"><fecolormatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 "></fecolormatrix><fecomponenttransfer color-interpolation-filters="sRGB"><fefuncr type="table" tableValues="0 0"></fefuncr><fefuncg type="table" tableValues="0 0.64705882352941"></fefuncg><fefuncb type="table" tableValues="0 1"></fefuncb><fefunca type="table" tableValues="1 1"></fefunca></fecomponenttransfer><fecomposite in2="SourceGraphic" operator="in"></fecomposite></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;"><defs><filter id="wp-duotone-magenta-yellow"><fecolormatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 "></fecolormatrix><fecomponenttransfer color-interpolation-filters="sRGB"><fefuncr type="table" tableValues="0.78039215686275 1"></fefuncr><fefuncg type="table" tableValues="0 0.94901960784314"></fefuncg><fefuncb type="table" tableValues="0.35294117647059 0.47058823529412"></fefuncb><fefunca type="table" tableValues="1 1"></fefunca></fecomponenttransfer><fecomposite in2="SourceGraphic" operator="in"></fecomposite></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;"><defs><filter id="wp-duotone-purple-green"><fecolormatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 "></fecolormatrix><fecomponenttransfer color-interpolation-filters="sRGB"><fefuncr type="table" tableValues="0.65098039215686 0.40392156862745"></fefuncr><fefuncg type="table" tableValues="0 1"></fefuncg><fefuncb type="table" tableValues="0.44705882352941 0.4"></fefuncb><fefunca type="table" tableValues="1 1"></fefunca></fecomponenttransfer><fecomposite in2="SourceGraphic" operator="in"></fecomposite></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;"><defs><filter id="wp-duotone-blue-orange"><fecolormatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 "></fecolormatrix><fecomponenttransfer color-interpolation-filters="sRGB"><fefuncr type="table" tableValues="0.098039215686275 1"></fefuncr><fefuncg type="table" tableValues="0 0.66274509803922"></fefuncg><fefuncb type="table" tableValues="0.84705882352941 0.41960784313725"></fefuncb><fefunca type="table" tableValues="1 1"></fefunca></fecomponenttransfer><fecomposite in2="SourceGraphic" operator="in"></fecomposite></filter></defs></svg><div id="theme-preloader" style="background-image: url(&quot;https://mercadosplus.com/wp-content/themes/onelisting/assets/img/preloader.svg&quot;); display: none;"></div>
+<div class="theme-authentication-modal">
+
+	<div class="modal fade" id="theme-login-modal" role="dialog" aria-hidden="true">
+
+		<div class="modal-dialog modal-dialog-centered" role="document">
+
+			<div class="modal-content">
+
+				<div class="modal-header">
+
+					<h5 class="modal-title" id="login_modal_label">Sign In</h5>
+
+					<button type="button" class="theme-close" data-bs-dismiss="modal" aria-label="Close"> <span aria-hidden="true">×</span> </button>
+				
+				</div>
+
+				<div class="modal-body">
+
+						<div class="theme-modal-wrap">
+
+		<form action="https://mercadosplus.com/#" id="login" method="POST">
+			
+			<div class="directorist-form-group directorist-mb-15">
+
+				<label for="username">Username or Email Address</label>
+
+				<input type="text" class="directorist-form-element" id="username" name="username">
+			</div>
+
+			<div class="directorist-form-group directorist-mb-15">
+
+				<label for="password">Password</label>
+
+				<input type="password" id="password" autocomplete="off" name="password" class="directorist-form-element">
+			</div>
+
+			
+			<p class="status"></p>
+
+			<div class="theme-password-activity directorist-checkbox directorist-mb-15">
+									<input type="checkbox" id="keep_signed_in" value="1" name="keep_signed_in" checked="">
+					<label for="keep_signed_in" class="directorist-checkbox__label not_empty">
+
+						Remember Me
+					</label>
+					<p><a href="https://mercadosplus.com/" class="atbdp_recovery_pass"> Recover Password</a></p>			</div>
+			<div class="directorist-form-group atbd_login_btn_wrapper directorist-mb-15">
+				<button class="directorist-btn directorist-btn-block directorist-btn-primary" type="submit" value="Log In" name="submit">
+
+					Log In
+				</button>
+
+				<input type="hidden" id="security" name="security" value="e6c0c74fa0"><input type="hidden" name="_wp_http_referer" value="/">
+			</div>
+		</form>
+
+		<div class="theme-social-login">
+
+			
+		</div>
+	</div>
+
+	
+			<div class="theme-modal-bottom">
+
+				<p>
+
+					Don't have an account?					
+					<a href="https://mercadosplus.com/#" data-bs-toggle="modal" data-bs-target="#theme-register-modal" data-bs-dismiss="modal">Sign Up</a>
+
+				</p>
+			</div>
+		
+			<div id="recover-pass-modal" class="directorist-mt-15" style="display: none;">
+		<form method="post">
+			<fieldset class="directorist-form-group">
+
+				<p>Lost your password? Please enter your email address. You will receive a link to create a new password via email.</p>
+
+				<label for="reset_user_login">E-mail</label>
+
+				
+				<input type="text" class="directorist-form-element" name="user_login" id="reset_user_login" value="" placeholder="eg. mail@example.com" required="">
+
+				<p>
+					<input type="hidden" name="action" value="reset">
+					<button type="submit" class="directorist-btn directorist-btn-primary" id="submit">
+
+						Get New Password
+					</button>
+					<input type="hidden" value="c4b229e600" name="directorist_nonce">
+				</p>
+			</fieldset>
+		</form>
+	</div>
+	
+				</div>
+
+			</div>
+
+		</div>
+
+	</div>
+
+	<div class="modal fade" id="theme-register-modal" role="dialog" aria-hidden="true">
+
+		<div class="modal-dialog modal-dialog-centered">
+
+			<div class="modal-content">
+
+				<div class="modal-header">
+
+					<h5 class="modal-title">Registration</h5>
+
+					<button type="button" class="theme-close" data-bs-dismiss="modal" aria-label="Close"><span aria-hidden="true">×</span> </button>
+
+				</div>
+
+				<div class="modal-body">
+
+					<div class="theme-modal-content">    
+	<div class="add_listing_title atbd_success_mesage">
+				<!--Registration failed, so show notification.-->
+			</div>
+
+	<form action="https://mercadosplus.com/" method="post">
+		<div class="theme-modal-wrap">
+			
+			<div class="directorist-form-group directorist-mb-15">
+
+				<label for="r_username">Username<strong class="directorist-form-required">*</strong></label>
+
+				<input id="r_username" class="directorist-form-element" type="text" name="username" value="">
+
+			</div>
+			<div class="directorist-form-group directorist-mb-15">
+
+				<label for="email">Email <strong class="directorist-form-required">*</strong></label>
+				<input id="email" class="directorist-form-element" type="text" name="email" value="">
+
+			</div>
+
+			
+				<div class="directorist-form-group directorist-mb-15">
+					<label for="r_password">
+
+						Password <strong class="directorist-form-required">*</strong>					</label>
+
+					<input id="r_password" class="directorist-form-element" type="password" name="password" value="">
+
+				</div>
+
+			
+						
+			
+						
+			
+			
+			
+				<div class="atbd_privacy_policy_area directory_regi_btn directorist-checkbox directorist-mb-15">
+
+					<input id="privacy_policy_2" type="checkbox" name="privacy_policy">
+
+					<label for="privacy_policy_2" class="directorist-checkbox__label">I agree to the					
+						<a style="color: red" target="_blank" href="https://mercadosplus.com/privacy-policy-2/">Privacy &amp; Policy</a>
+
+						<span class="directorist-form-required"> * </span></label>
+				</div>
+
+			
+						
+				<div class="atbd_term_and_condition_area directory_regi_btn directorist-checkbox directorist-mb-15">
+					<input id="listing_tr" type="checkbox" name="t_c_check">
+					<label for="listing_tr" class="directorist-checkbox__label">I agree with all
+						<a style="color: red" target="_blank" href="https://mercadosplus.com/terms-and-conditions/">terms &amp; conditions</a>
+
+						<span class="directorist-form-required">*</span>
+					</label>
+				</div>
+						
+						
+			<div class="theme-register-btn">
+
+				
+				
+				<button type="submit" class="directorist-btn directorist-btn-primary" name="atbdp_user_submit">Sign Up </button>
+				<input type="hidden" value="c4b229e600" name="directorist_nonce">
+			</div>
+
+			
+		</div>
+	</form>
+
+	
+		<div class="theme-modal-bottom">
+
+			<p>Already have an account? Please login <a href="https://mercadosplus.com/#" data-bs-toggle="modal" data-bs-target="#theme-login-modal" data-bs-dismiss="modal">Here</a></p>
+
+		</div>
+
+			
+</div>
+
+
+				</div>
+
+			</div>
+
+		</div>
+
+	</div>
+
+</div>
+
+
+
+<div id="theme-search-popup" class="theme-search-popup">
+
+	<button class="theme-popup-close"><span>×</span></button>
+
+	<div class="theme-search-popup-box">
+
+		<div class="container">
+
+			<div class="row">
+				<div class="col-12">
+
+					
+<div class="directorist-search-contents" data-atts="{&quot;show_title_subtitle&quot;:&quot;no&quot;,&quot;search_bar_title&quot;:&quot;Explore the world&quot;,&quot;search_bar_sub_title&quot;:&quot;&quot;,&quot;search_button&quot;:&quot;yes&quot;,&quot;search_button_text&quot;:&quot;Search&quot;,&quot;more_filters_button&quot;:&quot;no&quot;,&quot;more_filters_text&quot;:&quot;Filters&quot;,&quot;reset_filters_button&quot;:&quot;yes&quot;,&quot;apply_filters_button&quot;:&quot;yes&quot;,&quot;reset_filters_text&quot;:&quot;Reset Filters&quot;,&quot;apply_filters_text&quot;:&quot;Apply Filters&quot;,&quot;logged_in_user_only&quot;:&quot;&quot;,&quot;redirect_page_url&quot;:&quot;&quot;,&quot;more_filters_display&quot;:&quot;sliding&quot;,&quot;directory_type&quot;:&quot;&quot;,&quot;default_directory_type&quot;:&quot;&quot;,&quot;show_popular_category&quot;:&quot;no&quot;}">
+
+	
+	
+	<form action="https://mercadosplus.com/search-result/" class="directorist-search-form" data-atts="{&quot;show_title_subtitle&quot;:&quot;no&quot;,&quot;search_bar_title&quot;:&quot;Explore the world&quot;,&quot;search_bar_sub_title&quot;:&quot;&quot;,&quot;search_button&quot;:&quot;yes&quot;,&quot;search_button_text&quot;:&quot;Search&quot;,&quot;more_filters_button&quot;:&quot;no&quot;,&quot;more_filters_text&quot;:&quot;Filters&quot;,&quot;reset_filters_button&quot;:&quot;yes&quot;,&quot;apply_filters_button&quot;:&quot;yes&quot;,&quot;reset_filters_text&quot;:&quot;Reset Filters&quot;,&quot;apply_filters_text&quot;:&quot;Apply Filters&quot;,&quot;logged_in_user_only&quot;:&quot;&quot;,&quot;redirect_page_url&quot;:&quot;&quot;,&quot;more_filters_display&quot;:&quot;sliding&quot;,&quot;directory_type&quot;:&quot;&quot;,&quot;default_directory_type&quot;:&quot;&quot;,&quot;show_popular_category&quot;:&quot;no&quot;}">
+	
+		
+<div class="directorist-container-fluid">
+	<ul class="directorist-listing-type-selection">
+		
+			<li class="directorist-listing-type-selection__item"><a class="search_listing_types directorist-listing-type-selection__link--current" data-listing_type="general" data-listing_type_id="89" href="https://mercadosplus.com/#"><i class="directorist-icon-mask" aria-hidden="true" style="--directorist-icon: url(https://mercadosplus.com/wp-content/plugins/directorist/assets/icons/line-awesome/svgs/shopping-bag-solid.svg)"></i> Comercios Locales</a></li>
+
+		
+			<li class="directorist-listing-type-selection__item"><a class="search_listing_types directorist-listing-type-selection__link" data-listing_type="restaurants" data-listing_type_id="65" href="https://mercadosplus.com/#"><i class="directorist-icon-mask" aria-hidden="true" style="--directorist-icon: url(https://mercadosplus.com/wp-content/plugins/directorist/assets/icons/line-awesome/svgs/utensils-solid.svg)"></i> Gastronomía</a></li>
+
+		
+			<li class="directorist-listing-type-selection__item"><a class="search_listing_types directorist-listing-type-selection__link" data-listing_type="real-estate" data-listing_type_id="2" href="https://mercadosplus.com/#"><i class="directorist-icon-mask" aria-hidden="true" style="--directorist-icon: url(https://mercadosplus.com/wp-content/plugins/directorist/assets/icons/line-awesome/svgs/home-solid.svg)"></i> Inmobiliarios</a></li>
+
+		
+			<li class="directorist-listing-type-selection__item"><a class="search_listing_types directorist-listing-type-selection__link" data-listing_type="la-junin" data-listing_type_id="120" href="https://mercadosplus.com/#"><i class="directorist-icon-mask" aria-hidden="true" style="--directorist-icon: url(https://mercadosplus.com/wp-content/plugins/directorist/assets/icons/font-awesome/svgs/solid/shopping-bag.svg)"></i> La Junin</a></li>
+
+			</ul>
+</div>	
+		<div class="directorist-search-form-wrap">
+
+			<div class="directorist-search-form-box-wrap">
+				
+				
+<div class="directorist-search-form-box">
+	<input type="hidden" name="directory_type" class="listing_type" value="general">
+	<div class="directorist-search-form-top directorist-flex directorist-align-center directorist-search-form-inline">
+
+		
+<div class="directorist-search-field directorist-form-group directorist-search-query">
+	<input class="directorist-form-element" type="text" name="q" value="" placeholder="What are you looking for?">
+</div>
+	<div class="directorist-search-field directorist-form-group directorist-icon-left">
+		<span class="directorist-input-icon directorist-filter-location-icon"><i class="directorist-icon-mask" aria-hidden="true" style="--directorist-icon: url(https://mercadosplus.com/wp-content/plugins/directorist/assets/icons/line-awesome/svgs/crosshairs-solid.svg)"></i></span>
+		<input type="text" name="address" id="addressId" value="" placeholder="Location" autocomplete="off" class="directorist-form-element directorist-location-js location-name">
+
+		<div class="address_result location-names" style="display: none; max-height: 175px;"></div>
+		<input type="hidden" id="cityLat" name="cityLat" value="">
+		<input type="hidden" id="cityLng" name="cityLng" value="">
+	</div>
+
+	<div class="directorist-search-field">
+	<div class="directorist-select-custom directorist-search-category">
+		<select name="in_cat" class="cat_with_icon search_fields directorist-category-select select2-hidden-accessible" data-placeholder="Category" data-issearch="true" data-selected-id="" data-selected-label="" tabindex="-1" aria-hidden="true" data-select2-id="37">
+			<option value="" data-select2-id="39">Select Category</option><option data-custom-field="" value="98">Automotive</option><option data-custom-field="" value="102">Food</option><option data-custom-field="" value="100">Gym &amp; Fitness</option><option data-custom-field="" value="97">Homes</option><option data-custom-field="" value="99">Outdoor Activities</option><option data-custom-field="" value="101">Place</option><option data-custom-field="" value="103">Salon</option><option data-custom-field="" value="96">Shopping</option>		</select><span class="select2 select2-container select2-container--default" dir="ltr" data-select2-id="38" style="width: 100%;"><span class="selection"><span class="select2-selection select2-selection--single" role="combobox" aria-haspopup="true" aria-expanded="false" tabindex="0" aria-disabled="false" aria-labelledby="select2-in_cat-ec-container"><span class="select2-selection__rendered" id="select2-in_cat-ec-container" role="textbox" aria-readonly="true" style="padding-right: 0px;"><span class="select2-selection__placeholder">Category</span></span><span class="select2-selection__arrow" role="presentation" style="display: none;"><b role="presentation"></b></span></span></span><span class="dropdown-wrapper" aria-hidden="true"></span><span class="directorist-select2-addons-area"><span class="directorist-select2-addon directorist-select2-dropdown-toggle"><i class="directorist-icon-mask " aria-hidden="true" style="--directorist-icon: url(https://mercadosplus.com/wp-content/plugins/directorist/assets/icons/font-awesome/svgs/solid/chevron-down.svg)"></i></span></span></span>
+
+	</div>
+</div>
+	</div>
+
+	
+</div>
+
+
+<div class="directorist-search-form-action">
+
+	
+	
+		<div class="directorist-search-form-action__submit">
+			<button type="submit" class="directorist-btn directorist-btn-lg directorist-btn-dark directorist-btn-search">
+
+									<i class="directorist-icon-mask" aria-hidden="true" style="--directorist-icon: url(https://mercadosplus.com/wp-content/plugins/directorist/assets/icons/line-awesome/svgs/search-solid.svg)"></i>				
+				<span class="directorist-btn-text">
+					Search				</span>
+				
+			</button>
+		</div>
+
+	
+</div>
+			</div>
+
+		</div>
+
+	</form>
+
+	
+	
+</div>
+				</div>
+
+			</div>
+
+		</div>
+		
+	</div>
+
+</div>
+
+<div class="theme-shade"></div>
+<div class="theme-shade theme-white-shade"></div>
+	<div id="page" class="site" style="overflow: visible;">
+
+		<a class="skip-link screen-reader-text" href="https://mercadosplus.com/#main-content">Skip to content</a>
+
+		<header id="site-header" class="menu-area  sticky-top">
+
+			<div class="theme-header-menu-area">
+
+	<div class="theme-container-fluid">
+
+		<div class="theme-header-menu-full">
+			
+			<div class="theme-header-logo-wrap">
+
+				<div class="theme-header-logo-inner site-branding">
+						
+					
+						<div class="navbar-brand theme-header-logo-brand order-sm-1 order-1">
+
+							<a href="https://mercadosplus.com/" class="custom-logo-link" rel="home" aria-current="page"><img width="1000" height="125" src="./Home _ Mercados Plus_files/MercadosPlus.png" class="custom-logo" alt="Mercados Plus" decoding="async" srcset="https://mercadosplus.com/wp-content/uploads/2023/06/MercadosPlus.png 1000w, https://mercadosplus.com/wp-content/uploads/2023/06/MercadosPlus-300x38.png 300w, https://mercadosplus.com/wp-content/uploads/2023/06/MercadosPlus-768x96.png 768w" sizes="(max-width: 1000px) 100vw, 1000px"></a>
+						</div>
+					
+					
+				</div>
+
+			</div>
+
+			<div class="theme-menu-container">
+
+				<div class="theme-main-navigation">
+
+					<div class="theme-main-navigation-inner">
+
+						<a href="https://mercadosplus.com/#" class="theme-mobile-menu-close"><i class="themeicon themeicon-times-solid"></i></a>
+
+						<nav class="menu-main-menu-container"><ul id="menu-primary-menu" class="menu theme-main-menu"><li id="menu-item-82" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-53 current_page_item menu-item-82"><a href="https://mercadosplus.com/" aria-current="page">Home</a></li>
+<li id="menu-item-102" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-102"><a href="https://mercadosplus.com/#">Listings</a>
+<ul class="sub-menu">
+	<li id="menu-item-85" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-85"><a href="https://mercadosplus.com/all-listings/">Listings – Grid View</a></li>
+	<li id="menu-item-988" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-988"><a href="https://mercadosplus.com/all-listings/?view=list">Listings – List View</a></li>
+	<li id="menu-item-990" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-990"><a href="https://mercadosplus.com/directory/twin-stars/">Listing Details</a></li>
+	<li id="menu-item-1127" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1127"><a href="https://mercadosplus.com/author-profile/demo/">Author Profile</a></li>
+	<li id="menu-item-89" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-89"><a href="https://mercadosplus.com/dashboard/">Dashboard</a></li>
+</ul>
+</li>
+<li id="menu-item-1367" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1367"><a href="https://mercadosplus.com/all-categories/">Categories</a></li>
+<li id="menu-item-1368" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1368"><a href="https://mercadosplus.com/all-locations/">Locations</a></li>
+<li id="menu-item-1352" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1352"><a href="https://mercadosplus.com/blog/">Blog</a></li>
+<li id="menu-item-1008" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1008"><a href="https://mercadosplus.com/contact-us/">Contact Us</a></li>
+</ul></nav>
+					</div>
+
+					
+						<span class="theme-mobile-menu-trigger d-none">
+							<span></span>
+							<span></span>
+							<span></span>
+						</span>
+
+										
+				</div>
+
+			</div>
+
+			
+			<div class="theme-menu-action-box">
+
+				<div class="theme-menu-action-box__search">
+
+					
+						<a href="https://mercadosplus.com/" class="theme-menu-action-box__search--trigger">
+
+							<i class="search-icon themeicon-search-solid themeicon"></i>
+
+						</a>
+
+					
+				</div>
+
+				
+					<div class="theme-menu-action-box__author">
+
+						<div class="theme-menu-action-box__author--access-area">
+
+							
+								<div class="theme-menu-action-box__login">
+
+									<div class="theme-menu-action-box__login--modal">
+
+										<a href="https://mercadosplus.com/#" class="btn theme-btn btn-sm btn-outline-light" data-bs-toggle="modal" data-bs-target="#theme-login-modal">
+											<span class="d-none d-lg-block">Sign In</span>
+											<i class="directorist-icon-mask" aria-hidden="true" style="--directorist-icon: url(https://mercadosplus.com/wp-content/plugins/directorist/assets/icons/line-awesome/svgs/user-solid.svg)"></i>										</a>
+
+									</div>
+
+								</div>
+
+							
+						</div>
+
+					</div>
+				
+				
+									
+					<div class="theme-menu-action-box__add-listing">
+
+						<a href="https://mercadosplus.com/add-listing/" class="btn theme-btn btn-sm btn-primary btn-add-listing"><i class="directorist-icon-mask" aria-hidden="true" style="--directorist-icon: url(https://mercadosplus.com/wp-content/plugins/directorist/assets/icons/line-awesome/svgs/plus-solid.svg)"></i> <span class="d-none d-lg-block">Add Listing</span></a>
+
+					</div>
+
+				
+			</div>
+
+			
+		</div>
+
+	</div>
+	
+</div>
+		</header>
+		<span class="theme-mobile-menu-overlay"></span>
+		<div id="content" class="site-content" style="overflow: visible;">
+		
+					<div data-elementor-type="wp-page" data-elementor-id="53" class="elementor elementor-53" style="overflow: visible;">
+									<section class="elementor-section elementor-top-section elementor-element elementor-element-ac9f233 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="ac9f233" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+							<div class="elementor-background-overlay"></div>
+							<div class="elementor-container elementor-column-gap-default" style="overflow: visible;">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-84ae6a1" data-id="84ae6a1" data-element_type="column" style="overflow: visible;">
+			<div class="elementor-widget-wrap elementor-element-populated" style="overflow: visible;">
+								<div class="elementor-element elementor-element-bc61f90 elementor-widget elementor-widget-wpwax-search-listing" data-id="bc61f90" data-element_type="widget" data-widget_type="wpwax-search-listing.default" style="overflow: visible;">
+				<div class="elementor-widget-container" style="overflow: visible;">
+			
+<div class="directorist-search-contents" data-atts="{&quot;show_title_subtitle&quot;:&quot;yes&quot;,&quot;search_bar_title&quot;:&quot;Explore the world&quot;,&quot;search_bar_sub_title&quot;:&quot;&quot;,&quot;search_button&quot;:&quot;yes&quot;,&quot;search_button_text&quot;:&quot;Search&quot;,&quot;more_filters_button&quot;:&quot;yes&quot;,&quot;more_filters_text&quot;:&quot;Filters&quot;,&quot;reset_filters_button&quot;:&quot;yes&quot;,&quot;apply_filters_button&quot;:&quot;yes&quot;,&quot;reset_filters_text&quot;:&quot;Reset Filters&quot;,&quot;apply_filters_text&quot;:&quot;Apply Filters&quot;,&quot;logged_in_user_only&quot;:&quot;&quot;,&quot;redirect_page_url&quot;:&quot;&quot;,&quot;more_filters_display&quot;:&quot;overlapping&quot;,&quot;directory_type&quot;:&quot;&quot;,&quot;default_directory_type&quot;:&quot;&quot;,&quot;show_popular_category&quot;:&quot;&quot;}" style="overflow: visible;">
+
+	
+	
+		<div class="directorist-search-top">
+
+							<h2 class="directorist-search-top__title">Explore the world</h2>
+			
+			
+		</div>
+
+	
+	<form action="https://mercadosplus.com/search-result/" class="directorist-search-form" data-atts="{&quot;show_title_subtitle&quot;:&quot;yes&quot;,&quot;search_bar_title&quot;:&quot;Explore the world&quot;,&quot;search_bar_sub_title&quot;:&quot;&quot;,&quot;search_button&quot;:&quot;yes&quot;,&quot;search_button_text&quot;:&quot;Search&quot;,&quot;more_filters_button&quot;:&quot;yes&quot;,&quot;more_filters_text&quot;:&quot;Filters&quot;,&quot;reset_filters_button&quot;:&quot;yes&quot;,&quot;apply_filters_button&quot;:&quot;yes&quot;,&quot;reset_filters_text&quot;:&quot;Reset Filters&quot;,&quot;apply_filters_text&quot;:&quot;Apply Filters&quot;,&quot;logged_in_user_only&quot;:&quot;&quot;,&quot;redirect_page_url&quot;:&quot;&quot;,&quot;more_filters_display&quot;:&quot;overlapping&quot;,&quot;directory_type&quot;:&quot;&quot;,&quot;default_directory_type&quot;:&quot;&quot;,&quot;show_popular_category&quot;:&quot;&quot;}" data-select2-id="66">
+	
+		
+<div class="directorist-container-fluid">
+	<ul class="directorist-listing-type-selection">
+		
+			<li class="directorist-listing-type-selection__item"><a class="search_listing_types directorist-listing-type-selection__link--current" data-listing_type="general" data-listing_type_id="89" href="https://mercadosplus.com/#"><i class="directorist-icon-mask" aria-hidden="true" style="--directorist-icon: url(https://mercadosplus.com/wp-content/plugins/directorist/assets/icons/line-awesome/svgs/shopping-bag-solid.svg)"></i> Comercios Locales</a></li>
+
+		
+			<li class="directorist-listing-type-selection__item"><a class="search_listing_types directorist-listing-type-selection__link" data-listing_type="restaurants" data-listing_type_id="65" href="https://mercadosplus.com/#"><i class="directorist-icon-mask" aria-hidden="true" style="--directorist-icon: url(https://mercadosplus.com/wp-content/plugins/directorist/assets/icons/line-awesome/svgs/utensils-solid.svg)"></i> Gastronomía</a></li>
+
+		
+			<li class="directorist-listing-type-selection__item"><a class="search_listing_types directorist-listing-type-selection__link" data-listing_type="real-estate" data-listing_type_id="2" href="https://mercadosplus.com/#"><i class="directorist-icon-mask" aria-hidden="true" style="--directorist-icon: url(https://mercadosplus.com/wp-content/plugins/directorist/assets/icons/line-awesome/svgs/home-solid.svg)"></i> Inmobiliarios</a></li>
+
+		
+			<li class="directorist-listing-type-selection__item"><a class="search_listing_types directorist-listing-type-selection__link" data-listing_type="la-junin" data-listing_type_id="120" href="https://mercadosplus.com/#"><i class="directorist-icon-mask" aria-hidden="true" style="--directorist-icon: url(https://mercadosplus.com/wp-content/plugins/directorist/assets/icons/font-awesome/svgs/solid/shopping-bag.svg)"></i> La Junin</a></li>
+
+			</ul>
+</div>	
+		<div class="directorist-search-form-wrap" style="overflow: visible;">
+
+			<div class="directorist-search-form-box-wrap" style="overflow: visible;">
+				
+				
+<div class="directorist-search-form-box" style="overflow: visible;">
+	<input type="hidden" name="directory_type" class="listing_type" value="general">
+	<div class="directorist-search-form-top directorist-flex directorist-align-center directorist-search-form-inline" data-select2-id="65">
+
+		
+<div class="directorist-search-field directorist-form-group directorist-search-query">
+	<input class="directorist-form-element" type="text" name="q" value="" placeholder="What are you looking for?">
+</div>
+	<div class="directorist-search-field directorist-form-group directorist-icon-left">
+		<span class="directorist-input-icon directorist-filter-location-icon"><i class="directorist-icon-mask" aria-hidden="true" style="--directorist-icon: url(https://mercadosplus.com/wp-content/plugins/directorist/assets/icons/line-awesome/svgs/crosshairs-solid.svg)"></i></span>
+		<input type="text" name="address" id="addressId" value="" placeholder="Location" autocomplete="off" class="directorist-form-element directorist-location-js location-name">
+
+		<div class="address_result location-names" style="display: none; max-height: 175px;"></div>
+		<input type="hidden" id="cityLat" name="cityLat" value="">
+		<input type="hidden" id="cityLng" name="cityLng" value="">
+	</div>
+
+	<div class="directorist-search-field" data-select2-id="64">
+	<div class="directorist-select-custom directorist-search-category" data-select2-id="63">
+		<select name="in_cat" class="cat_with_icon search_fields directorist-category-select select2-hidden-accessible" data-placeholder="Category" data-issearch="true" data-selected-id="" data-selected-label="" tabindex="-1" aria-hidden="true" data-select2-id="48">
+			<option value="" data-select2-id="50">Select Category</option><option data-custom-field="" value="98" data-select2-id="69">Automotive</option><option data-custom-field="" value="102" data-select2-id="70">Food</option><option data-custom-field="" value="100" data-select2-id="71">Gym &amp; Fitness</option><option data-custom-field="" value="97" data-select2-id="72">Homes</option><option data-custom-field="" value="99" data-select2-id="73">Outdoor Activities</option><option data-custom-field="" value="101" data-select2-id="74">Place</option><option data-custom-field="" value="103" data-select2-id="75">Salon</option><option data-custom-field="" value="96" data-select2-id="76">Shopping</option>		</select><span class="select2 select2-container select2-container--default select2-container--above" dir="ltr" data-select2-id="49" style="width: 100%;"><span class="selection"><span class="select2-selection select2-selection--single" role="combobox" aria-haspopup="true" aria-expanded="false" tabindex="0" aria-disabled="false" aria-labelledby="select2-in_cat-a6-container"><span class="select2-selection__rendered" id="select2-in_cat-a6-container" role="textbox" aria-readonly="true" style="padding-right: 0px;"><span class="select2-selection__placeholder">Category</span></span><span class="select2-selection__arrow" role="presentation" style="display: none;"><b role="presentation"></b></span></span></span><span class="dropdown-wrapper" aria-hidden="true"></span><span class="directorist-select2-addons-area"><span class="directorist-select2-addon directorist-select2-dropdown-toggle"><i class="directorist-icon-mask " aria-hidden="true" style="--directorist-icon: url(https://mercadosplus.com/wp-content/plugins/directorist/assets/icons/font-awesome/svgs/solid/chevron-down.svg)"></i></span></span></span>
+
+	</div>
+</div>
+	</div>
+
+				<div class="directorist-search-float" style="overflow: visible;">
+				
+<div class="directorist-search-adv-filter directorist-advanced-filter" style="visibility: hidden; height: 0px; opacity: 0; transition: all 0.3s ease 0s;">
+
+	
+		
+			<div class="directorist-form-group directorist-advanced-filter__advanced--element direcorist-search-field-pricing">
+
+	<div class="directorist-search-field">
+
+		
+		<div class="directorist-price-ranges">
+
+			
+				<div class="directorist-price-ranges__item directorist-form-group"><input type="text" name="price[0]" class="directorist-form-element" placeholder="Min" value=""></div>
+				<div class="directorist-price-ranges__item directorist-form-group"><input type="text" name="price[1]" class="directorist-form-element" placeholder="Max" value=""></div>
+
+						
+			
+				<div class="directorist-price-ranges__item directorist-price-ranges__price-frequency">
+					<label class="directorist-price-ranges__price-frequency--btn">
+						<input type="radio" name="price_range" value="bellow_economy"><span class="directorist-pf-range">$</span>
+					</label>
+					<label class="directorist-price-ranges__price-frequency--btn">
+						<input type="radio" name="price_range" value="economy"><span class="directorist-pf-range">$$</span>
+					</label>
+					<label class="directorist-price-ranges__price-frequency--btn">
+						<input type="radio" name="price_range" value="moderate"><span class="directorist-pf-range">$$$</span>
+					</label>
+					<label class="directorist-price-ranges__price-frequency--btn">
+						<input type="radio" name="price_range" value="skimming"><span class="directorist-pf-range">$$$$</span>
+					</label>
+				</div>
+
+			
+		</div>
+
+	</div>
+
+</div>
+
+		
+	
+		
+			<div class="directorist-form-group directorist-advanced-filter__advanced--element direcorist-search-field-review">
+<div class="directorist-search-field">
+
+	
+		<label>Reviews</label>
+		
+	
+	<div class="directorist-select">
+
+		<select name="search_by_rating" data-placeholder="Select Reviews " data-issearch="true" tabindex="-1" class="select2-hidden-accessible" aria-hidden="true" data-select2-id="59">
+			
+			<option value="" data-select2-id="61">Seleccionar valoraciones</option><option value="5">5 estrellas</option><option value="4">4 estrellas o más</option><option value="3">3 estrellas o más</option><option value="2">2 estrellas o más</option><option value="1">1 estrella o más</option>
+		</select><span class="select2 select2-container select2-container--default" dir="ltr" data-select2-id="60" style="width: 100%;"><span class="selection"><span class="select2-selection select2-selection--single" role="combobox" aria-haspopup="true" aria-expanded="false" tabindex="0" aria-disabled="false" aria-labelledby="select2-search_by_rating-f3-container"><span class="select2-selection__rendered" id="select2-search_by_rating-f3-container" role="textbox" aria-readonly="true" style="padding-right: 0px;"><span class="select2-selection__placeholder">Select Reviews </span></span><span class="select2-selection__arrow" role="presentation" style="display: none;"><b role="presentation"></b></span></span></span><span class="dropdown-wrapper" aria-hidden="true"></span><span class="directorist-select2-addons-area"><span class="directorist-select2-addon directorist-select2-dropdown-toggle"><i class="directorist-icon-mask " aria-hidden="true" style="--directorist-icon: url(https://mercadosplus.com/wp-content/plugins/directorist/assets/icons/font-awesome/svgs/solid/chevron-down.svg)"></i></span></span></span>
+
+	</div>
+
+</div></div>
+
+		
+	
+		
+			<div class="directorist-form-group directorist-advanced-filter__advanced--element direcorist-search-field-tag">
+
+	<div class="directorist-search-field">
+
+					<label>Tags</label>
+		
+		<div class="directorist-search-tags directorist-flex">
+
+			
+				<div class="directorist-checkbox directorist-checkbox-primary">
+					<input type="checkbox" name="in_tag[]" value="106" id="1286981334106">
+					<label for="1286981334106" class="directorist-checkbox__label">car</label>
+				</div>
+
+			
+				<div class="directorist-checkbox directorist-checkbox-primary">
+					<input type="checkbox" name="in_tag[]" value="91" id="128698133491">
+					<label for="128698133491" class="directorist-checkbox__label">Commercial</label>
+				</div>
+
+			
+				<div class="directorist-checkbox directorist-checkbox-primary">
+					<input type="checkbox" name="in_tag[]" value="105" id="1286981334105">
+					<label for="1286981334105" class="directorist-checkbox__label">Fitness</label>
+				</div>
+
+			
+				<div class="directorist-checkbox directorist-checkbox-primary">
+					<input type="checkbox" name="in_tag[]" value="104" id="1286981334104">
+					<label for="1286981334104" class="directorist-checkbox__label">gym</label>
+				</div>
+
+			
+				<div class="directorist-checkbox directorist-checkbox-primary" style="display: none;">
+					<input type="checkbox" name="in_tag[]" value="25" id="128698133425">
+					<label for="128698133425" class="directorist-checkbox__label">Halal</label>
+				</div>
+
+			
+				<div class="directorist-checkbox directorist-checkbox-primary" style="display: none;">
+					<input type="checkbox" name="in_tag[]" value="109" id="1286981334109">
+					<label for="1286981334109" class="directorist-checkbox__label">hiking</label>
+				</div>
+
+			
+				<div class="directorist-checkbox directorist-checkbox-primary" style="display: none;">
+					<input type="checkbox" name="in_tag[]" value="21" id="128698133421">
+					<label for="128698133421" class="directorist-checkbox__label">italian</label>
+				</div>
+
+			
+				<div class="directorist-checkbox directorist-checkbox-primary" style="display: none;">
+					<input type="checkbox" name="in_tag[]" value="95" id="128698133495">
+					<label for="128698133495" class="directorist-checkbox__label">Mixed-use</label>
+				</div>
+
+			
+				<div class="directorist-checkbox directorist-checkbox-primary" style="display: none;">
+					<input type="checkbox" name="in_tag[]" value="108" id="1286981334108">
+					<label for="1286981334108" class="directorist-checkbox__label">outdoor</label>
+				</div>
+
+			
+				<div class="directorist-checkbox directorist-checkbox-primary" style="display: none;">
+					<input type="checkbox" name="in_tag[]" value="111" id="1286981334111">
+					<label for="1286981334111" class="directorist-checkbox__label">place</label>
+				</div>
+
+			
+				<div class="directorist-checkbox directorist-checkbox-primary" style="display: none;">
+					<input type="checkbox" name="in_tag[]" value="94" id="128698133494">
+					<label for="128698133494" class="directorist-checkbox__label">Raw Land</label>
+				</div>
+
+			
+				<div class="directorist-checkbox directorist-checkbox-primary" style="display: none;">
+					<input type="checkbox" name="in_tag[]" value="10" id="128698133410">
+					<label for="128698133410" class="directorist-checkbox__label">Rent</label>
+				</div>
+
+			
+				<div class="directorist-checkbox directorist-checkbox-primary" style="display: none;">
+					<input type="checkbox" name="in_tag[]" value="93" id="128698133493">
+					<label for="128698133493" class="directorist-checkbox__label">Residential</label>
+				</div>
+
+			
+				<div class="directorist-checkbox directorist-checkbox-primary" style="display: none;">
+					<input type="checkbox" name="in_tag[]" value="22" id="128698133422">
+					<label for="128698133422" class="directorist-checkbox__label">Seafood</label>
+				</div>
+
+			
+				<div class="directorist-checkbox directorist-checkbox-primary" style="display: none;">
+					<input type="checkbox" name="in_tag[]" value="112" id="1286981334112">
+					<label for="1286981334112" class="directorist-checkbox__label">shopping</label>
+				</div>
+
+			
+				<div class="directorist-checkbox directorist-checkbox-primary" style="display: none;">
+					<input type="checkbox" name="in_tag[]" value="107" id="1286981334107">
+					<label for="1286981334107" class="directorist-checkbox__label">snowboard</label>
+				</div>
+
+			
+				<div class="directorist-checkbox directorist-checkbox-primary" style="display: none;">
+					<input type="checkbox" name="in_tag[]" value="92" id="128698133492">
+					<label for="128698133492" class="directorist-checkbox__label">Special Purpose</label>
+				</div>
+
+			
+				<div class="directorist-checkbox directorist-checkbox-primary" style="display: none;">
+					<input type="checkbox" name="in_tag[]" value="24" id="128698133424">
+					<label for="128698133424" class="directorist-checkbox__label">Sushi</label>
+				</div>
+
+			
+				<div class="directorist-checkbox directorist-checkbox-primary" style="display: none;">
+					<input type="checkbox" name="in_tag[]" value="110" id="1286981334110">
+					<label for="1286981334110" class="directorist-checkbox__label">Swim</label>
+				</div>
+
+			
+				<div class="directorist-checkbox directorist-checkbox-primary" style="display: none;">
+					<input type="checkbox" name="in_tag[]" value="23" id="128698133423">
+					<label for="128698133423" class="directorist-checkbox__label">Vegetarian</label>
+				</div>
+
+			
+		</div>
+
+		<a href="https://mercadosplus.com/#" class="directorist-btn-ml">Show More</a>
+
+	</div>
+
+</div>
+
+		
+	
+	
+<div class="directorist-advanced-filter__action directorist-flex directorist-justify-content-end">
+
+			<a href="https://mercadosplus.com/#" class="directorist-btn directorist-btn-sm directorist-btn-outline-dark directorist-btn-reset-js">Reset Filters</a>
+	
+			<button type="submit" class="directorist-btn directorist-btn-sm directorist-btn-dark">Apply Filters</button>
+	
+</div>
+</div>			</div>
+			
+</div>
+
+
+<div class="directorist-search-form-action">
+
+	
+		<div class="directorist-search-form-action__filter">
+			<a href="https://mercadosplus.com/#" class="directorist-btn directorist-btn-lg directorist-filter-btn">
+
+									<i class="directorist-icon-mask" aria-hidden="true" style="--directorist-icon: url(https://mercadosplus.com/wp-content/plugins/directorist/assets/icons/line-awesome/svgs/filter-solid.svg)"></i>				
+				<span class="directorist-btn-text">
+					Filters				</span>
+			</a>
+		</div>
+
+	
+	
+		<div class="directorist-search-form-action__submit">
+			<button type="submit" class="directorist-btn directorist-btn-lg directorist-btn-dark directorist-btn-search">
+
+									<i class="directorist-icon-mask" aria-hidden="true" style="--directorist-icon: url(https://mercadosplus.com/wp-content/plugins/directorist/assets/icons/line-awesome/svgs/search-solid.svg)"></i>				
+				<span class="directorist-btn-text">
+					Search				</span>
+				
+			</button>
+		</div>
+
+	
+</div>
+			</div>
+
+		</div>
+
+	</form>
+
+	
+	
+</div>		</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-5c52bf6 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="5c52bf6" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-c543d52" data-id="c543d52" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-0cf891e elementor-widget elementor-widget-wpwaxtheme-title" data-id="0cf891e" data-element_type="widget" data-widget_type="wpwaxtheme-title.default">
+				<div class="elementor-widget-container">
+			<div class="theme-section-title">
+
+	<h1 class="theme-section-title__title">Featured Listings</h1>
+
+		
+</div>		</div>
+				</div>
+				<div class="elementor-element elementor-element-791abdc elementor-widget elementor-widget-wpwaxtheme-all-listings" data-id="791abdc" data-element_type="widget" data-widget_type="wpwaxtheme-all-listings.default">
+				<div class="elementor-widget-container">
+			<!-- directorist-shortcode:: [ directorist_all_listing] -->
+
+	<div class="directorist-archive-contents directorist-instant-search" data-atts="{&quot;header&quot;:&quot;no&quot;,&quot;header_title&quot;:&quot;&quot;,&quot;advanced_filter&quot;:&quot;no&quot;,&quot;view&quot;:&quot;grid&quot;,&quot;columns&quot;:&quot;3&quot;,&quot;listings_per_page&quot;:&quot;6&quot;,&quot;show_pagination&quot;:&quot;no&quot;,&quot;category&quot;:&quot;&quot;,&quot;tag&quot;:&quot;&quot;,&quot;location&quot;:&quot;&quot;,&quot;orderby&quot;:&quot;date&quot;,&quot;order&quot;:&quot;desc&quot;,&quot;show_title&quot;:&quot;no&quot;,&quot;show_directory_types&quot;:&quot;yes&quot;,&quot;ids&quot;:&quot;&quot;,&quot;directory_type&quot;:&quot;event,general,real-estate,restaurants&quot;,&quot;_current_page&quot;:&quot;listing&quot;}">
+
+	
+	
+	<div class="directorist-container-fluid">
+	<div class="directorist-type-nav">
+		<ul class="directorist-type-nav__list">
+
+			
+			
+				<li class="current">
+					<a class="directorist-type-nav__link" href="https://mercadosplus.com/?directory_type=general" data-listing_type="general" data-listing_type_id="89"><i class="directorist-icon-mask" aria-hidden="true" style="--directorist-icon: url(https://mercadosplus.com/wp-content/plugins/directorist/assets/icons/line-awesome/svgs/shopping-bag-solid.svg)"></i> Comercios Locales</a>
+				</li>
+
+			
+				<li class="">
+					<a class="directorist-type-nav__link" href="https://mercadosplus.com/?directory_type=restaurants" data-listing_type="restaurants" data-listing_type_id="65"><i class="directorist-icon-mask" aria-hidden="true" style="--directorist-icon: url(https://mercadosplus.com/wp-content/plugins/directorist/assets/icons/line-awesome/svgs/utensils-solid.svg)"></i> Gastronomía</a>
+				</li>
+
+			
+				<li class="">
+					<a class="directorist-type-nav__link" href="https://mercadosplus.com/?directory_type=real-estate" data-listing_type="real-estate" data-listing_type_id="2"><i class="directorist-icon-mask" aria-hidden="true" style="--directorist-icon: url(https://mercadosplus.com/wp-content/plugins/directorist/assets/icons/line-awesome/svgs/home-solid.svg)"></i> Inmobiliarios</a>
+				</li>
+
+			
+		</ul>
+	</div>
+</div>
+
+<div class="directorist-archive-items directorist-archive-grid-view">
+
+	
+	<div class="directorist-container-fluid">
+
+		
+			<div class=" directorist-row">
+
+				
+					<div class="directorist-col-4 directorist-all-listing-col"><!-- directorist-all-listing-col -->
+						
+<div class="directorist-listing-single directorist-listing-card directorist-listing-has-thumb directorist-featured">
+
+	<figure class="directorist-listing-single__thumb">
+
+		<a href="https://mercadosplus.com/directory/holy-smokin-butts-bbq/"><div class="directorist-thumnail-card directorist-card-cover" style="height: 230px"><div class="directorist-thumnail-card-front-wrap"><img src="./Home _ Mercados Plus_files/m.png" alt="Holy Smokin Butts BBQ" class="directorist-thumnail-card-front-img"></div></div></a>
+		<div class="directorist-thumb-top-left">
+<span class="directorist-badge directorist-info-item directorist-badge-popular">Popular</span>
+<span class="directorist-badge directorist-info-item directorist-badge-featured">Featured</span></div>
+		<div class="directorist-thumb-top-right">
+<div class="directorist-mark-as-favorite">
+	<a class="directorist-mark-as-favorite__btn  directorist-fav_967" data-listing_id="967" href="https://mercadosplus.com/">
+		<span class="directorist-favorite-icon"></span>
+		<span class="directorist-favorite-tooltip"></span>
+	</a>
+</div></div>
+		<div class="directorist-thumb-bottom-left">
+<span class="directorist-info-item directorist-pricing-meta">
+	
+<span class="directorist-listing-price">$250.00</span></span></div>
+		<div class="directorist-thumb-bottom-right"></div>
+		
+	</figure>
+
+	<div class="directorist-listing-single__content">
+
+		<div class="directorist-listing-single__info">
+			<div class="directorist-listing-single__info--top">
+<h4 class="directorist-listing-title"><a href="https://mercadosplus.com/directory/holy-smokin-butts-bbq/">Holy Smokin Butts BBQ</a></h4>
+
+<span class="directorist-info-item directorist-rating-meta directorist-rating-transparent">
+
+    <span class="directorist-rating-avg theme-bg_5.0">
+
+        <i class="directorist-icon-mask" aria-hidden="true" style="--directorist-icon: url(https://mercadosplus.com/wp-content/plugins/directorist/assets/icons/font-awesome/svgs/solid/star.svg)"></i>
+        <span class="rating-count">5.0</span>
+
+    </span>
+
+	2 reviews
+</span></div>
+			<div class="directorist-listing-single__info--list"><ul><li>
+<div class="directorist-listing-card-address"><i class="directorist-icon-mask" aria-hidden="true" style="--directorist-icon: url(https://mercadosplus.com/wp-content/plugins/directorist/assets/icons/line-awesome/svgs/map-marker-solid.svg)"></i><span class="directorist-listing-single__info--list__label"></span>Bali, Indonesia</div></li><li>
+<div class="directorist-listing-card-phone"><i class="directorist-icon-mask" aria-hidden="true" style="--directorist-icon: url(https://mercadosplus.com/wp-content/plugins/directorist/assets/icons/line-awesome/svgs/phone-solid.svg)"></i><span class="directorist-listing-single__info--list__label"></span><a href="tel:216123456555">+216 1234 56 555</a></div></li><li>
+<div class="directorist-listing-card-posted-on"><i class="directorist-icon-mask" aria-hidden="true" style="--directorist-icon: url(https://mercadosplus.com/wp-content/plugins/directorist/assets/icons/line-awesome/svgs/clock-solid.svg)"></i><span class="directorist-listing-single__info--list__label"></span>3 octubre, 2021</div></li></ul></div>
+			<div class="directorist-listing-single__info--excerpt"></div>
+		</div>
+
+		<div class="directorist-listing-single__meta">
+			<div class="directorist-listing-single__meta--left">
+<div class="directorist-listing-category">
+			<a href="https://mercadosplus.com/single-category/food/?directory_type=general"><i class="directorist-icon-mask" aria-hidden="true" style="--directorist-icon: url(https://mercadosplus.com/wp-content/plugins/directorist/assets/icons/line-awesome/svgs/hamburger-solid.svg)"></i>Food</a>
+		</div></div>
+			<div class="directorist-listing-single__meta--right"></div>
+		</div>
+
+	</div>
+
+</div>					</div>
+
+				
+					<div class="directorist-col-4 directorist-all-listing-col"><!-- directorist-all-listing-col -->
+						
+<div class="directorist-listing-single directorist-listing-card directorist-listing-has-thumb directorist-featured">
+
+	<figure class="directorist-listing-single__thumb">
+
+		<a href="https://mercadosplus.com/directory/bon-voyage-car-rental/"><div class="directorist-thumnail-card directorist-card-cover" style="height: 230px"><div class="directorist-thumnail-card-front-wrap"><img src="./Home _ Mercados Plus_files/15.jpg" alt="15" class="directorist-thumnail-card-front-img"></div></div></a>
+		<div class="directorist-thumb-top-left">
+<span class="directorist-badge directorist-info-item directorist-badge-popular">Popular</span>
+<span class="directorist-badge directorist-info-item directorist-badge-featured">Featured</span></div>
+		<div class="directorist-thumb-top-right">
+<div class="directorist-mark-as-favorite">
+	<a class="directorist-mark-as-favorite__btn  directorist-fav_937" data-listing_id="937" href="https://mercadosplus.com/">
+		<span class="directorist-favorite-icon"></span>
+		<span class="directorist-favorite-tooltip"></span>
+	</a>
+</div></div>
+		<div class="directorist-thumb-bottom-left">
+<span class="directorist-info-item directorist-pricing-meta">
+	
+<span class="directorist-listing-price-range directorist-tooltip" data-label="Económico"><span class="directorist-price-active">$</span><span class="directorist-price-active">$</span><span>$</span><span>$</span></span></span></div>
+		<div class="directorist-thumb-bottom-right"></div>
+		
+	</figure>
+
+	<div class="directorist-listing-single__content">
+
+		<div class="directorist-listing-single__info">
+			<div class="directorist-listing-single__info--top">
+<h4 class="directorist-listing-title"><a href="https://mercadosplus.com/directory/bon-voyage-car-rental/">Bon Voyage Car Rental</a></h4>
+
+<span class="directorist-info-item directorist-rating-meta directorist-rating-transparent">
+
+    <span class="directorist-rating-avg theme-bg_5.0">
+
+        <i class="directorist-icon-mask" aria-hidden="true" style="--directorist-icon: url(https://mercadosplus.com/wp-content/plugins/directorist/assets/icons/font-awesome/svgs/solid/star.svg)"></i>
+        <span class="rating-count">5.0</span>
+
+    </span>
+
+	2 reviews
+</span></div>
+			<div class="directorist-listing-single__info--list"><ul><li>
+<div class="directorist-listing-card-address"><i class="directorist-icon-mask" aria-hidden="true" style="--directorist-icon: url(https://mercadosplus.com/wp-content/plugins/directorist/assets/icons/line-awesome/svgs/map-marker-solid.svg)"></i><span class="directorist-listing-single__info--list__label"></span>Washington, United States</div></li><li>
+<div class="directorist-listing-card-phone"><i class="directorist-icon-mask" aria-hidden="true" style="--directorist-icon: url(https://mercadosplus.com/wp-content/plugins/directorist/assets/icons/line-awesome/svgs/phone-solid.svg)"></i><span class="directorist-listing-single__info--list__label"></span><a href="tel:218123456789">+218 1234 56 789</a></div></li><li>
+<div class="directorist-listing-card-posted-on"><i class="directorist-icon-mask" aria-hidden="true" style="--directorist-icon: url(https://mercadosplus.com/wp-content/plugins/directorist/assets/icons/line-awesome/svgs/clock-solid.svg)"></i><span class="directorist-listing-single__info--list__label"></span>3 octubre, 2021</div></li></ul></div>
+			<div class="directorist-listing-single__info--excerpt"></div>
+		</div>
+
+		<div class="directorist-listing-single__meta">
+			<div class="directorist-listing-single__meta--left">
+<div class="directorist-listing-category">
+			<a href="https://mercadosplus.com/single-category/automotive/?directory_type=general"><i class="directorist-icon-mask" aria-hidden="true" style="--directorist-icon: url(https://mercadosplus.com/wp-content/plugins/directorist/assets/icons/line-awesome/svgs/car-side-solid.svg)"></i>Automotive</a>
+		</div></div>
+			<div class="directorist-listing-single__meta--right"></div>
+		</div>
+
+	</div>
+
+</div>					</div>
+
+				
+					<div class="directorist-col-4 directorist-all-listing-col"><!-- directorist-all-listing-col -->
+						
+<div class="directorist-listing-single directorist-listing-card directorist-listing-has-thumb directorist-featured">
+
+	<figure class="directorist-listing-single__thumb">
+
+		<a href="https://mercadosplus.com/directory/center-of-strength/"><div class="directorist-thumnail-card directorist-card-cover" style="height: 230px"><div class="directorist-thumnail-card-front-wrap"><img src="./Home _ Mercados Plus_files/pexels-mister-mister-3490348.jpg" alt="pexels-mister-mister-3490348" class="directorist-thumnail-card-front-img"></div></div></a>
+		<div class="directorist-thumb-top-left">
+<span class="directorist-badge directorist-info-item directorist-badge-popular">Popular</span>
+<span class="directorist-badge directorist-info-item directorist-badge-featured">Featured</span></div>
+		<div class="directorist-thumb-top-right">
+<div class="directorist-mark-as-favorite">
+	<a class="directorist-mark-as-favorite__btn  directorist-fav_929" data-listing_id="929" href="https://mercadosplus.com/">
+		<span class="directorist-favorite-icon"></span>
+		<span class="directorist-favorite-tooltip"></span>
+	</a>
+</div></div>
+		<div class="directorist-thumb-bottom-left">
+<span class="directorist-info-item directorist-pricing-meta">
+	
+<span class="directorist-listing-price-range directorist-tooltip" data-label="Económico"><span class="directorist-price-active">$</span><span class="directorist-price-active">$</span><span>$</span><span>$</span></span></span></div>
+		<div class="directorist-thumb-bottom-right"></div>
+		
+	</figure>
+
+	<div class="directorist-listing-single__content">
+
+		<div class="directorist-listing-single__info">
+			<div class="directorist-listing-single__info--top">
+<h4 class="directorist-listing-title"><a href="https://mercadosplus.com/directory/center-of-strength/">Center of Strength</a></h4>
+
+<span class="directorist-info-item directorist-rating-meta directorist-rating-transparent">
+
+    <span class="directorist-rating-avg theme-bg_5.0">
+
+        <i class="directorist-icon-mask" aria-hidden="true" style="--directorist-icon: url(https://mercadosplus.com/wp-content/plugins/directorist/assets/icons/font-awesome/svgs/solid/star.svg)"></i>
+        <span class="rating-count">5.0</span>
+
+    </span>
+
+	2 reviews
+</span></div>
+			<div class="directorist-listing-single__info--list"><ul><li>
+<div class="directorist-listing-card-address"><i class="directorist-icon-mask" aria-hidden="true" style="--directorist-icon: url(https://mercadosplus.com/wp-content/plugins/directorist/assets/icons/line-awesome/svgs/map-marker-solid.svg)"></i><span class="directorist-listing-single__info--list__label"></span>New York, United States</div></li><li>
+<div class="directorist-listing-card-phone"><i class="directorist-icon-mask" aria-hidden="true" style="--directorist-icon: url(https://mercadosplus.com/wp-content/plugins/directorist/assets/icons/line-awesome/svgs/phone-solid.svg)"></i><span class="directorist-listing-single__info--list__label"></span><a href="tel:218123456789">+218 1234 56 789</a></div></li><li>
+<div class="directorist-listing-card-posted-on"><i class="directorist-icon-mask" aria-hidden="true" style="--directorist-icon: url(https://mercadosplus.com/wp-content/plugins/directorist/assets/icons/line-awesome/svgs/clock-solid.svg)"></i><span class="directorist-listing-single__info--list__label"></span>30 septiembre, 2021</div></li></ul></div>
+			<div class="directorist-listing-single__info--excerpt"></div>
+		</div>
+
+		<div class="directorist-listing-single__meta">
+			<div class="directorist-listing-single__meta--left">
+<div class="directorist-listing-category">
+			<a href="https://mercadosplus.com/single-category/gym-fitness/?directory_type=general"><i class="directorist-icon-mask" aria-hidden="true" style="--directorist-icon: url(https://mercadosplus.com/wp-content/plugins/directorist/assets/icons/line-awesome/svgs/dumbbell-solid.svg)"></i>Gym &amp; Fitness</a>
+		</div></div>
+			<div class="directorist-listing-single__meta--right"></div>
+		</div>
+
+	</div>
+
+</div>					</div>
+
+				
+					<div class="directorist-col-4 directorist-all-listing-col"><!-- directorist-all-listing-col -->
+						
+<div class="directorist-listing-single directorist-listing-card directorist-listing-has-thumb directorist-featured">
+
+	<figure class="directorist-listing-single__thumb">
+
+		<a href="https://mercadosplus.com/directory/beauty-with-grace/"><div class="directorist-thumnail-card directorist-card-cover" style="height: 230px"><div class="directorist-thumnail-card-front-wrap"><img src="./Home _ Mercados Plus_files/gallery1-1.png" alt="gallery1-1" class="directorist-thumnail-card-front-img"></div></div></a>
+		<div class="directorist-thumb-top-left">
+<span class="directorist-badge directorist-info-item directorist-badge-popular">Popular</span>
+<span class="directorist-badge directorist-info-item directorist-badge-featured">Featured</span></div>
+		<div class="directorist-thumb-top-right">
+<div class="directorist-mark-as-favorite">
+	<a class="directorist-mark-as-favorite__btn  directorist-fav_912" data-listing_id="912" href="https://mercadosplus.com/">
+		<span class="directorist-favorite-icon"></span>
+		<span class="directorist-favorite-tooltip"></span>
+	</a>
+</div></div>
+		<div class="directorist-thumb-bottom-left">
+<span class="directorist-info-item directorist-pricing-meta">
+	
+<span class="directorist-listing-price-range directorist-tooltip" data-label="Económico"><span class="directorist-price-active">$</span><span class="directorist-price-active">$</span><span>$</span><span>$</span></span></span></div>
+		<div class="directorist-thumb-bottom-right"></div>
+		
+	</figure>
+
+	<div class="directorist-listing-single__content">
+
+		<div class="directorist-listing-single__info">
+			<div class="directorist-listing-single__info--top">
+<h4 class="directorist-listing-title"><a href="https://mercadosplus.com/directory/beauty-with-grace/">Beauty with Grace</a></h4>
+
+<span class="directorist-info-item directorist-rating-meta directorist-rating-transparent">
+
+    <span class="directorist-rating-avg theme-bg_5.0">
+
+        <i class="directorist-icon-mask" aria-hidden="true" style="--directorist-icon: url(https://mercadosplus.com/wp-content/plugins/directorist/assets/icons/font-awesome/svgs/solid/star.svg)"></i>
+        <span class="rating-count">5.0</span>
+
+    </span>
+
+	2 reviews
+</span></div>
+			<div class="directorist-listing-single__info--list"><ul><li>
+<div class="directorist-listing-card-address"><i class="directorist-icon-mask" aria-hidden="true" style="--directorist-icon: url(https://mercadosplus.com/wp-content/plugins/directorist/assets/icons/line-awesome/svgs/map-marker-solid.svg)"></i><span class="directorist-listing-single__info--list__label"></span>New York, United States</div></li><li>
+<div class="directorist-listing-card-phone"><i class="directorist-icon-mask" aria-hidden="true" style="--directorist-icon: url(https://mercadosplus.com/wp-content/plugins/directorist/assets/icons/line-awesome/svgs/phone-solid.svg)"></i><span class="directorist-listing-single__info--list__label"></span><a href="tel:218123456789">+218 1234 56 789</a></div></li><li>
+<div class="directorist-listing-card-posted-on"><i class="directorist-icon-mask" aria-hidden="true" style="--directorist-icon: url(https://mercadosplus.com/wp-content/plugins/directorist/assets/icons/line-awesome/svgs/clock-solid.svg)"></i><span class="directorist-listing-single__info--list__label"></span>30 septiembre, 2021</div></li></ul></div>
+			<div class="directorist-listing-single__info--excerpt"></div>
+		</div>
+
+		<div class="directorist-listing-single__meta">
+			<div class="directorist-listing-single__meta--left">
+<div class="directorist-listing-category">
+			<a href="https://mercadosplus.com/single-category/salon/?directory_type=general"><i class="directorist-icon-mask" aria-hidden="true" style="--directorist-icon: url(https://mercadosplus.com/wp-content/plugins/directorist/assets/icons/line-awesome/svgs/cut-solid.svg)"></i>Salon</a>
+		</div></div>
+			<div class="directorist-listing-single__meta--right"></div>
+		</div>
+
+	</div>
+
+</div>					</div>
+
+				
+					<div class="directorist-col-4 directorist-all-listing-col"><!-- directorist-all-listing-col -->
+						
+<div class="directorist-listing-single directorist-listing-card directorist-listing-has-thumb ">
+
+	<figure class="directorist-listing-single__thumb">
+
+		<a href="https://mercadosplus.com/directory/sultans-tent-and-cafe/"><div class="directorist-thumnail-card directorist-card-cover" style="height: 230px"><div class="directorist-thumnail-card-front-wrap"><img src="./Home _ Mercados Plus_files/m.png" alt="Sultan’s Tent and Cafe" class="directorist-thumnail-card-front-img"></div></div></a>
+		<div class="directorist-thumb-top-left">
+<span class="directorist-badge directorist-info-item directorist-badge-popular">Popular</span></div>
+		<div class="directorist-thumb-top-right">
+<div class="directorist-mark-as-favorite">
+	<a class="directorist-mark-as-favorite__btn  directorist-fav_968" data-listing_id="968" href="https://mercadosplus.com/">
+		<span class="directorist-favorite-icon"></span>
+		<span class="directorist-favorite-tooltip"></span>
+	</a>
+</div></div>
+		<div class="directorist-thumb-bottom-left">
+<span class="directorist-info-item directorist-pricing-meta">
+	
+<span class="directorist-listing-price">$150.00</span></span></div>
+		<div class="directorist-thumb-bottom-right"></div>
+		
+	</figure>
+
+	<div class="directorist-listing-single__content">
+
+		<div class="directorist-listing-single__info">
+			<div class="directorist-listing-single__info--top">
+<h4 class="directorist-listing-title"><a href="https://mercadosplus.com/directory/sultans-tent-and-cafe/">Sultan’s Tent and Cafe</a></h4>
+
+<span class="directorist-info-item directorist-rating-meta directorist-rating-transparent">
+
+    <span class="directorist-rating-avg theme-bg_4.8">
+
+        <i class="directorist-icon-mask" aria-hidden="true" style="--directorist-icon: url(https://mercadosplus.com/wp-content/plugins/directorist/assets/icons/font-awesome/svgs/solid/star.svg)"></i>
+        <span class="rating-count">4.8</span>
+
+    </span>
+
+	5 reviews
+</span></div>
+			<div class="directorist-listing-single__info--list"><ul><li>
+<div class="directorist-listing-card-address"><i class="directorist-icon-mask" aria-hidden="true" style="--directorist-icon: url(https://mercadosplus.com/wp-content/plugins/directorist/assets/icons/line-awesome/svgs/map-marker-solid.svg)"></i><span class="directorist-listing-single__info--list__label"></span>New York, United States</div></li><li>
+<div class="directorist-listing-card-phone"><i class="directorist-icon-mask" aria-hidden="true" style="--directorist-icon: url(https://mercadosplus.com/wp-content/plugins/directorist/assets/icons/line-awesome/svgs/phone-solid.svg)"></i><span class="directorist-listing-single__info--list__label"></span><a href="tel:216123456000">+216 1234 56 000</a></div></li><li>
+<div class="directorist-listing-card-posted-on"><i class="directorist-icon-mask" aria-hidden="true" style="--directorist-icon: url(https://mercadosplus.com/wp-content/plugins/directorist/assets/icons/line-awesome/svgs/clock-solid.svg)"></i><span class="directorist-listing-single__info--list__label"></span>3 octubre, 2021</div></li></ul></div>
+			<div class="directorist-listing-single__info--excerpt"></div>
+		</div>
+
+		<div class="directorist-listing-single__meta">
+			<div class="directorist-listing-single__meta--left">
+<div class="directorist-listing-category">
+			<a href="https://mercadosplus.com/single-category/food/?directory_type=general"><i class="directorist-icon-mask" aria-hidden="true" style="--directorist-icon: url(https://mercadosplus.com/wp-content/plugins/directorist/assets/icons/line-awesome/svgs/hamburger-solid.svg)"></i>Food</a>
+		</div></div>
+			<div class="directorist-listing-single__meta--right"></div>
+		</div>
+
+	</div>
+
+</div>					</div>
+
+				
+					<div class="directorist-col-4 directorist-all-listing-col"><!-- directorist-all-listing-col -->
+						
+<div class="directorist-listing-single directorist-listing-card directorist-listing-has-thumb ">
+
+	<figure class="directorist-listing-single__thumb">
+
+		<a href="https://mercadosplus.com/directory/the-mill-house/"><div class="directorist-thumnail-card directorist-card-cover" style="height: 230px"><div class="directorist-thumnail-card-front-wrap"><img src="./Home _ Mercados Plus_files/m.png" alt="The Mill House" class="directorist-thumnail-card-front-img"></div></div></a>
+		<div class="directorist-thumb-top-left">
+<span class="directorist-badge directorist-info-item directorist-badge-popular">Popular</span></div>
+		<div class="directorist-thumb-top-right">
+<div class="directorist-mark-as-favorite">
+	<a class="directorist-mark-as-favorite__btn  directorist-fav_965" data-listing_id="965" href="https://mercadosplus.com/">
+		<span class="directorist-favorite-icon"></span>
+		<span class="directorist-favorite-tooltip"></span>
+	</a>
+</div></div>
+		<div class="directorist-thumb-bottom-left">
+<span class="directorist-info-item directorist-pricing-meta">
+	
+<span class="directorist-listing-price">$160.00</span></span></div>
+		<div class="directorist-thumb-bottom-right"></div>
+		
+	</figure>
+
+	<div class="directorist-listing-single__content">
+
+		<div class="directorist-listing-single__info">
+			<div class="directorist-listing-single__info--top">
+<h4 class="directorist-listing-title"><a href="https://mercadosplus.com/directory/the-mill-house/">The Mill House</a></h4>
+
+<span class="directorist-info-item directorist-rating-meta directorist-rating-transparent">
+
+    <span class="directorist-rating-avg theme-bg_5.0">
+
+        <i class="directorist-icon-mask" aria-hidden="true" style="--directorist-icon: url(https://mercadosplus.com/wp-content/plugins/directorist/assets/icons/font-awesome/svgs/solid/star.svg)"></i>
+        <span class="rating-count">5.0</span>
+
+    </span>
+
+	2 reviews
+</span></div>
+			<div class="directorist-listing-single__info--list"><ul><li>
+<div class="directorist-listing-card-address"><i class="directorist-icon-mask" aria-hidden="true" style="--directorist-icon: url(https://mercadosplus.com/wp-content/plugins/directorist/assets/icons/line-awesome/svgs/map-marker-solid.svg)"></i><span class="directorist-listing-single__info--list__label"></span>Dallas County, Texas, United States</div></li><li>
+<div class="directorist-listing-card-phone"><i class="directorist-icon-mask" aria-hidden="true" style="--directorist-icon: url(https://mercadosplus.com/wp-content/plugins/directorist/assets/icons/line-awesome/svgs/phone-solid.svg)"></i><span class="directorist-listing-single__info--list__label"></span><a href="tel:218123456700">+218 1234 56 700</a></div></li><li>
+<div class="directorist-listing-card-posted-on"><i class="directorist-icon-mask" aria-hidden="true" style="--directorist-icon: url(https://mercadosplus.com/wp-content/plugins/directorist/assets/icons/line-awesome/svgs/clock-solid.svg)"></i><span class="directorist-listing-single__info--list__label"></span>3 octubre, 2021</div></li></ul></div>
+			<div class="directorist-listing-single__info--excerpt"></div>
+		</div>
+
+		<div class="directorist-listing-single__meta">
+			<div class="directorist-listing-single__meta--left">
+<div class="directorist-listing-category">
+			<a href="https://mercadosplus.com/single-category/homes/?directory_type=general"><i class="directorist-icon-mask" aria-hidden="true" style="--directorist-icon: url(https://mercadosplus.com/wp-content/plugins/directorist/assets/icons/line-awesome/svgs/home-solid.svg)"></i>Homes</a>
+		</div></div>
+			<div class="directorist-listing-single__meta--right"></div>
+		</div>
+
+	</div>
+
+</div>					</div>
+
+				
+			</div>
+
+			
+			
+			
+		
+	</div>
+
+</div>
+</div>		</div>
+				</div>
+				<div class="elementor-element elementor-element-c4d934a elementor-align-center elementor-widget elementor-widget-button" data-id="c4d934a" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-button-wrapper">
+			<a class="elementor-button elementor-button-link elementor-size-sm" href="https://mercadosplus.com/all-listings/">
+						<span class="elementor-button-content-wrapper">
+						<span class="elementor-button-icon elementor-align-icon-right">
+				<i aria-hidden="true" class="fas fa-long-arrow-alt-right"></i>			</span>
+						<span class="elementor-button-text">Show more listings</span>
+		</span>
+					</a>
+		</div>
+				</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-e3f8fcb elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="e3f8fcb" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-6fc74d6" data-id="6fc74d6" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-3d717d6 elementor-widget elementor-widget-wpwaxtheme-title" data-id="3d717d6" data-element_type="widget" data-widget_type="wpwaxtheme-title.default">
+				<div class="elementor-widget-container">
+			<div class="theme-section-title">
+
+	<h1 class="theme-section-title__title">Latest news</h1>
+
+		
+</div>		</div>
+				</div>
+				<div class="elementor-element elementor-element-d124ad0 elementor-widget elementor-widget-wpwaxtheme-post" data-id="d124ad0" data-element_type="widget" data-widget_type="wpwaxtheme-post.default">
+				<div class="elementor-widget-container">
+			
+	<div class="row theme-row">
+
+		
+			<div class="col-lg-4 col-md-6 col-12">
+
+				<div id="post-303" class="theme-blog-each post-303 post type-post status-publish format-standard hentry category-international category-listinga tag-business tag-disasters tag-history tag-international tag-listing">
+
+					<div class="theme-blog-card blog-grid-card">
+
+						
+							<div class="theme-blog-card__thumbnail">
+								
+								<a href="https://mercadosplus.com/the-ultimate-glossary-of-terms-about-listing/">
+
+									<img decoding="async" alt="The Ultimate Glossary of Terms About Listing" src="./Home _ Mercados Plus_files/nothumb.png">
+
+								</a>
+
+							</div>
+							
+
+						
+						<div class="theme-blog-card__details">
+
+							<div class="theme-blog-card__content">
+
+								<h2 class="theme-blog-card__title">
+
+									<a href="https://mercadosplus.com/the-ultimate-glossary-of-terms-about-listing/" class="entry-title" rel="bookmark">The Ultimate Glossary of Terms About Listing</a>
+
+								</h2>
+
+								
+							</div>
+
+							
+								<div class="theme-blog-card__meta">
+
+									<div class="theme-blog-card__meta-list">
+
+										<ul class="list-unstyled">
+
+											
+												<li class="theme-blog-card_date-meta">
+
+													<span class="theme-blog-card_date-meta-text updated published">16 septiembre, 2021</span>
+												
+												</li>
+
+											
+											
+												<li class="theme-blog-card_reading-time-meta"><span>2 mins read </span></li>
+
+											
+											
+										</ul>
+
+									</div>
+
+								</div>
+
+							
+						</div>
+
+					</div>
+
+				</div>
+
+			</div>
+
+		
+			<div class="col-lg-4 col-md-6 col-12">
+
+				<div id="post-292" class="theme-blog-each post-292 post type-post status-publish format-standard has-post-thumbnail hentry category-international category-listinga tag-business tag-disasters tag-history tag-international tag-listing">
+
+					<div class="theme-blog-card blog-grid-card">
+
+						
+							<div class="theme-blog-card__thumbnail">
+
+								<a href="https://mercadosplus.com/the-3-biggest-disasters-in-listing-history/"><img loading="lazy" width="352" height="252" src="./Home _ Mercados Plus_files/Blog-4-352x252.jpg" class="attachment-wpwaxtheme-size2 size-wpwaxtheme-size2 wp-post-image" alt="" decoding="async" srcset="https://mercadosplus.com/wp-content/uploads/2021/09/Blog-4-352x252.jpg 352w, https://mercadosplus.com/wp-content/uploads/2021/09/Blog-4-476x340.jpg 476w" sizes="(max-width: 352px) 100vw, 352px"></a>
+
+							</div>
+
+						
+						<div class="theme-blog-card__details">
+
+							<div class="theme-blog-card__content">
+
+								<h2 class="theme-blog-card__title">
+
+									<a href="https://mercadosplus.com/the-3-biggest-disasters-in-listing-history/" class="entry-title" rel="bookmark">The 3 Biggest Disasters in Listing History</a>
+
+								</h2>
+
+								
+							</div>
+
+							
+								<div class="theme-blog-card__meta">
+
+									<div class="theme-blog-card__meta-list">
+
+										<ul class="list-unstyled">
+
+											
+												<li class="theme-blog-card_date-meta">
+
+													<span class="theme-blog-card_date-meta-text updated published">16 septiembre, 2021</span>
+												
+												</li>
+
+											
+											
+												<li class="theme-blog-card_reading-time-meta"><span>2 mins read </span></li>
+
+											
+											
+										</ul>
+
+									</div>
+
+								</div>
+
+							
+						</div>
+
+					</div>
+
+				</div>
+
+			</div>
+
+		
+			<div class="col-lg-4 col-md-6 col-12">
+
+				<div id="post-291" class="theme-blog-each post-291 post type-post status-publish format-standard hentry category-international category-listinga tag-business tag-international tag-listing">
+
+					<div class="theme-blog-card blog-grid-card">
+
+						
+							<div class="theme-blog-card__thumbnail">
+								
+								<a href="https://mercadosplus.com/9-things-your-parents-taught-you-about-listing/">
+
+									<img decoding="async" alt="9 Things Your Parents Taught You About Listing" src="./Home _ Mercados Plus_files/nothumb.png">
+
+								</a>
+
+							</div>
+							
+
+						
+						<div class="theme-blog-card__details">
+
+							<div class="theme-blog-card__content">
+
+								<h2 class="theme-blog-card__title">
+
+									<a href="https://mercadosplus.com/9-things-your-parents-taught-you-about-listing/" class="entry-title" rel="bookmark">9 Things Your Parents Taught You About Listing</a>
+
+								</h2>
+
+								
+							</div>
+
+							
+								<div class="theme-blog-card__meta">
+
+									<div class="theme-blog-card__meta-list">
+
+										<ul class="list-unstyled">
+
+											
+												<li class="theme-blog-card_date-meta">
+
+													<span class="theme-blog-card_date-meta-text updated published">16 septiembre, 2021</span>
+												
+												</li>
+
+											
+											
+												<li class="theme-blog-card_reading-time-meta"><span>2 mins read </span></li>
+
+											
+											
+										</ul>
+
+									</div>
+
+								</div>
+
+							
+						</div>
+
+					</div>
+
+				</div>
+
+			</div>
+
+		
+	</div>
+
+	
+		<div class="theme-more-btn">
+
+			<a href="https://mercadosplus.com/blog/"><span class="theme-more-btn__text">View all posts</span> <i aria-hidden="true" class="fas fa-long-arrow-alt-right"></i></a>
+
+		</div>
+
+	
+
+		</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+							</div>
+		</div><!-- #content -->
+
+<footer class="site-footer">
+
+	
+		<div class="theme-footer-top-area">
+
+			<div class="theme-container">
+
+				<div class="row">
+
+					
+						<div class="col-lg-3 col-sm-6 col-12">
+
+							<div id="onelisting_about-2" class="widget widget_onelisting_about">
+		<div class="theme-about-widget">
+
+			<div class="theme-about-widget__img"><img src="./Home _ Mercados Plus_files/MercadosPlus.png" alt="https://mercadosplus.com/wp-content/uploads/2023/06/MercadosPlus.png"></div>
+			<p class="theme-about-widget__content">
+
+				"Mercados Plus: La plataforma líder que conecta a tiendas físicas con clientes digitales de manera innovadora."
+			</p>
+
+			<div class="theme-about-widget__social">
+
+				<ul class="list-unstyled d-flex flex-wrap">
+
+					
+						<li class="theme-about-widget__social--facebook"><a href="https://mercadosplus.com/#" target="_blank"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32"><path d="M 19.253906 2 C 15.311906 2 13 4.0821719 13 8.8261719 L 13 13 L 8 13 L 8 18 L 13 18 L 13 30 L 18 30 L 18 18 L 22 18 L 23 13 L 18 13 L 18 9.671875 C 18 7.884875 18.582766 7 20.259766 7 L 23 7 L 23 2.2050781 C 22.526 2.1410781 21.144906 2 19.253906 2 z"></path></svg></a></li>
+
+					
+					
+						<li class="theme-about-widget__social--twitter"><a href="https://mercadosplus.com/#" target="_blank"><svg xmlns="http://www.w3.org/2000/svg" data-name="Layer 1" viewBox="0 0 24 24"><path d="M22,5.8a8.49,8.49,0,0,1-2.36.64,4.13,4.13,0,0,0,1.81-2.27,8.21,8.21,0,0,1-2.61,1,4.1,4.1,0,0,0-7,3.74A11.64,11.64,0,0,1,3.39,4.62a4.16,4.16,0,0,0-.55,2.07A4.09,4.09,0,0,0,4.66,10.1,4.05,4.05,0,0,1,2.8,9.59v.05a4.1,4.1,0,0,0,3.3,4A3.93,3.93,0,0,1,5,13.81a4.9,4.9,0,0,1-.77-.07,4.11,4.11,0,0,0,3.83,2.84A8.22,8.22,0,0,1,3,18.34a7.93,7.93,0,0,1-1-.06,11.57,11.57,0,0,0,6.29,1.85A11.59,11.59,0,0,0,20,8.45c0-.17,0-.35,0-.53A8.43,8.43,0,0,0,22,5.8Z"></path></svg></a></li>
+
+					
+					
+						<li class="theme-about-widget__social--linkedin"><a href="https://mercadosplus.com/#" target="_blank"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32"><path d="M 8.6425781 4 C 7.1835781 4 6 5.181625 6 6.640625 C 6 8.099625 7.182625 9.3085938 8.640625 9.3085938 C 10.098625 9.3085938 11.283203 8.099625 11.283203 6.640625 C 11.283203 5.182625 10.101578 4 8.6425781 4 z M 21.535156 11 C 19.316156 11 18.0465 12.160453 17.4375 13.314453 L 17.373047 13.314453 L 17.373047 11.310547 L 13 11.310547 L 13 26 L 17.556641 26 L 17.556641 18.728516 C 17.556641 16.812516 17.701266 14.960938 20.072266 14.960938 C 22.409266 14.960937 22.443359 17.145609 22.443359 18.849609 L 22.443359 26 L 26.994141 26 L 27 26 L 27 17.931641 C 27 13.983641 26.151156 11 21.535156 11 z M 6.3632812 11.310547 L 6.3632812 26 L 10.923828 26 L 10.923828 11.310547 L 6.3632812 11.310547 z"></path></svg></a></li>
+
+					
+
+					
+					
+						<li class="theme-about-widget__social--instagram"><a href="https://mercadosplus.com/#" target="_blank"><svg xmlns="http://www.w3.org/2000/svg" data-name="Layer 1" viewBox="0 0 24 24"><path d="M12,9.52A2.48,2.48,0,1,0,14.48,12,2.48,2.48,0,0,0,12,9.52Zm9.93-2.45a6.53,6.53,0,0,0-.42-2.26,4,4,0,0,0-2.32-2.32,6.53,6.53,0,0,0-2.26-.42C15.64,2,15.26,2,12,2s-3.64,0-4.93.07a6.53,6.53,0,0,0-2.26.42A4,4,0,0,0,2.49,4.81a6.53,6.53,0,0,0-.42,2.26C2,8.36,2,8.74,2,12s0,3.64.07,4.93a6.86,6.86,0,0,0,.42,2.27,3.94,3.94,0,0,0,.91,1.4,3.89,3.89,0,0,0,1.41.91,6.53,6.53,0,0,0,2.26.42C8.36,22,8.74,22,12,22s3.64,0,4.93-.07a6.53,6.53,0,0,0,2.26-.42,3.89,3.89,0,0,0,1.41-.91,3.94,3.94,0,0,0,.91-1.4,6.6,6.6,0,0,0,.42-2.27C22,15.64,22,15.26,22,12S22,8.36,21.93,7.07Zm-2.54,8A5.73,5.73,0,0,1,19,16.87,3.86,3.86,0,0,1,16.87,19a5.73,5.73,0,0,1-1.81.35c-.79,0-1,0-3.06,0s-2.27,0-3.06,0A5.73,5.73,0,0,1,7.13,19a3.51,3.51,0,0,1-1.31-.86A3.51,3.51,0,0,1,5,16.87a5.49,5.49,0,0,1-.34-1.81c0-.79,0-1,0-3.06s0-2.27,0-3.06A5.49,5.49,0,0,1,5,7.13a3.51,3.51,0,0,1,.86-1.31A3.59,3.59,0,0,1,7.13,5a5.73,5.73,0,0,1,1.81-.35h0c.79,0,1,0,3.06,0s2.27,0,3.06,0A5.73,5.73,0,0,1,16.87,5a3.51,3.51,0,0,1,1.31.86A3.51,3.51,0,0,1,19,7.13a5.73,5.73,0,0,1,.35,1.81c0,.79,0,1,0,3.06S19.42,14.27,19.39,15.06Zm-1.6-7.44a2.38,2.38,0,0,0-1.41-1.41A4,4,0,0,0,15,6c-.78,0-1,0-3,0s-2.22,0-3,0a4,4,0,0,0-1.38.26A2.38,2.38,0,0,0,6.21,7.62,4.27,4.27,0,0,0,6,9c0,.78,0,1,0,3s0,2.22,0,3a4.27,4.27,0,0,0,.26,1.38,2.38,2.38,0,0,0,1.41,1.41A4.27,4.27,0,0,0,9,18.05H9c.78,0,1,0,3,0s2.22,0,3,0a4,4,0,0,0,1.38-.26,2.38,2.38,0,0,0,1.41-1.41A4,4,0,0,0,18.05,15c0-.78,0-1,0-3s0-2.22,0-3A3.78,3.78,0,0,0,17.79,7.62ZM12,15.82A3.81,3.81,0,0,1,8.19,12h0A3.82,3.82,0,1,1,12,15.82Zm4-6.89a.9.9,0,0,1,0-1.79h0a.9.9,0,0,1,0,1.79Z"></path></svg></a></li>
+
+					
+					
+						<li class="theme-about-widget__social--youtube"><a href="https://mercadosplus.com/#" target="_blank"><svg xmlns="http://www.w3.org/2000/svg" data-name="Layer 1" viewBox="0 0 24 24"><path d="M23,9.71a8.5,8.5,0,0,0-.91-4.13,2.92,2.92,0,0,0-1.72-1A78.36,78.36,0,0,0,12,4.27a78.45,78.45,0,0,0-8.34.3,2.87,2.87,0,0,0-1.46.74c-.9.83-1,2.25-1.1,3.45a48.29,48.29,0,0,0,0,6.48,9.55,9.55,0,0,0,.3,2,3.14,3.14,0,0,0,.71,1.36,2.86,2.86,0,0,0,1.49.78,45.18,45.18,0,0,0,6.5.33c3.5.05,6.57,0,10.2-.28a2.88,2.88,0,0,0,1.53-.78,2.49,2.49,0,0,0,.61-1,10.58,10.58,0,0,0,.52-3.4C23,13.69,23,10.31,23,9.71ZM9.74,14.85V8.66l5.92,3.11C14,12.69,11.81,13.73,9.74,14.85Z"></path></svg></a></li>
+
+					
+
+					
+
+					
+				</ul>
+
+			</div>
+
+		</div>
+
+		</div>
+						</div>
+
+					
+						<div class="col-lg-3 col-sm-6 col-12">
+
+							<div id="nav_menu-2" class="widget widget_nav_menu"><h4 class="widget-title">Useful Links</h4><div class="menu-useful-links-container"><ul id="menu-useful-links" class="menu"><li id="menu-item-107" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-107"><a href="https://mercadosplus.com/login/">Login</a></li>
+<li id="menu-item-108" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-108"><a href="https://mercadosplus.com/add-listing/">Add Listing</a></li>
+<li id="menu-item-114" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-114"><a href="https://mercadosplus.com/contact-us/">Contact Us</a></li>
+<li id="menu-item-117" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-117"><a href="https://mercadosplus.com/blog/">Blog</a></li>
+</ul></div></div>
+						</div>
+
+					
+						<div class="col-lg-3 col-sm-6 col-12">
+
+							<div id="nav_menu-3" class="widget widget_nav_menu"><h4 class="widget-title">Top Categories</h4><div class="menu-top-categories-container"><ul id="menu-top-categories" class="menu"><li id="menu-item-1331" class="menu-item menu-item-type-taxonomy menu-item-object-at_biz_dir-category menu-item-1331"><a href="https://mercadosplus.com/single-category/automotive/">Automotive</a></li>
+<li id="menu-item-1332" class="menu-item menu-item-type-taxonomy menu-item-object-at_biz_dir-category menu-item-1332"><a href="https://mercadosplus.com/single-category/casual-dining/">Casual Dining</a></li>
+<li id="menu-item-1334" class="menu-item menu-item-type-taxonomy menu-item-object-at_biz_dir-category menu-item-1334"><a href="https://mercadosplus.com/single-category/gym-fitness/">Gym &amp; Fitness</a></li>
+<li id="menu-item-1335" class="menu-item menu-item-type-taxonomy menu-item-object-at_biz_dir-category menu-item-1335"><a href="https://mercadosplus.com/single-category/outdoor-activities/">Outdoor Activities</a></li>
+<li id="menu-item-1336" class="menu-item menu-item-type-taxonomy menu-item-object-at_biz_dir-category menu-item-1336"><a href="https://mercadosplus.com/single-category/residential/">Residential</a></li>
+</ul></div></div>
+						</div>
+
+					
+						<div class="col-lg-3 col-sm-6 col-12">
+
+							<div id="text-2" class="widget widget_text"><h4 class="widget-title">Subscribe &amp; Update</h4>			<div class="textwidget"><p>Subscribe to get update and exclusive offers. You can unsubscribe any time<br>
+<script>(function() {
+	window.mc4wp = window.mc4wp || {
+		listeners: [],
+		forms: {
+			on: function(evt, cb) {
+				window.mc4wp.listeners.push(
+					{
+						event   : evt,
+						callback: cb
+					}
+				);
+			}
+		}
+	}
+})();
+</script><!-- Mailchimp for WordPress v4.9.6 - https://wordpress.org/plugins/mailchimp-for-wp/ --></p><form id="mc4wp-form-1" class="mc4wp-form mc4wp-form-123" method="post" data-id="123" data-name="Subscription"><div class="mc4wp-form-fields"><div class="theme-subscription-box">
+  <div class="theme-subscription-box__input">
+      <input type="email" name="EMAIL" placeholder="Your email address" required="">
+  </div>
+
+  <div class="theme-subscription-box__submit">
+      <button type="submit"><i class="themeicon themeicon-paper-plane-solid"></i></button>
+  </div>
+</div></div><label style="display: none !important;">Deja vacío este campo si eres humano: <input type="text" name="_mc4wp_honeypot" value="" tabindex="-1" autocomplete="off"></label><input type="hidden" name="_mc4wp_timestamp" value="1691433904"><input type="hidden" name="_mc4wp_form_id" value="123"><input type="hidden" name="_mc4wp_form_element_id" value="mc4wp-form-1"><div class="mc4wp-response"></div></form><!-- / Mailchimp for WordPress Plugin --><p></p>
+</div>
+		</div>
+						</div>
+
+					
+				</div>
+
+			</div>
+
+		</div>
+
+	
+	
+</footer>
+
+</div>
+
+<script>(function() {function maybePrefixUrlField () {
+  const value = this.value.trim()
+  if (value !== '' && value.indexOf('http') !== 0) {
+    this.value = 'http://' + value
+  }
+}
+
+const urlFields = document.querySelectorAll('.mc4wp-form input[type="url"]')
+for (let j = 0; j < urlFields.length; j++) {
+  urlFields[j].addEventListener('blur', maybePrefixUrlField)
+}
+})();</script><script type="text/javascript" src="./Home _ Mercados Plus_files/index.js.descarga" id="swv-js"></script>
+<script type="text/javascript" id="contact-form-7-js-extra">
+/* <![CDATA[ */
+var wpcf7 = {"api":{"root":"https:\/\/mercadosplus.com\/wp-json\/","namespace":"contact-form-7\/v1"}};
+/* ]]> */
+</script>
+<script type="text/javascript" src="./Home _ Mercados Plus_files/index.js(1).descarga" id="contact-form-7-js"></script>
+<script type="text/javascript" src="./Home _ Mercados Plus_files/bootstrap.bundle.min.js.descarga" id="bootstrap-js"></script>
+<script type="text/javascript" src="./Home _ Mercados Plus_files/swiper.js.descarga" id="swiper-js"></script>
+<script type="text/javascript" src="./Home _ Mercados Plus_files/account.js.descarga" id="directorist-account-js"></script>
+<script type="text/javascript" src="./Home _ Mercados Plus_files/search-form.js.descarga" id="directorist-search-form-js"></script>
+<script type="text/javascript" src="./Home _ Mercados Plus_files/select2.js.descarga" id="directorist-select2-script-js"></script>
+<script type="text/javascript" src="./Home _ Mercados Plus_files/global-geolocation.js.descarga" id="directorist-geolocation-js"></script>
+<script type="text/javascript" src="./Home _ Mercados Plus_files/all-listings.js.descarga" id="directorist-all-listings-js"></script>
+<script type="text/javascript" src="./Home _ Mercados Plus_files/imagesloaded.min.js.descarga" id="imagesloaded-js"></script>
+<script type="text/javascript" src="./Home _ Mercados Plus_files/masonry.min.js.descarga" id="masonry-js"></script>
+<script type="text/javascript" src="./Home _ Mercados Plus_files/jquery.masonry.min.js.descarga" id="jquery-masonry-js"></script>
+<script type="text/javascript" src="./Home _ Mercados Plus_files/openstreetlayers.js.descarga" id="directorist-openstreet-layers-js"></script>
+<script type="text/javascript" src="./Home _ Mercados Plus_files/unpkg-min.js.descarga" id="directorist-openstreet-unpkg-js"></script>
+<script type="text/javascript" src="./Home _ Mercados Plus_files/unpkg-index.js.descarga" id="directorist-openstreet-unpkg-index-js"></script>
+<script type="text/javascript" src="./Home _ Mercados Plus_files/unpkg-libs.js.descarga" id="directorist-openstreet-unpkg-libs-js"></script>
+<script type="text/javascript" src="./Home _ Mercados Plus_files/leaflet-versions.js.descarga" id="directorist-openstreet-leaflet-versions-js"></script>
+<script type="text/javascript" src="./Home _ Mercados Plus_files/leaflet.markercluster-versions.js.descarga" id="directorist-openstreet-leaflet-markercluster-versions-js"></script>
+<script type="text/javascript" src="./Home _ Mercados Plus_files/libs-setup.js.descarga" id="directorist-openstreet-libs-setup-js"></script>
+<script type="text/javascript" src="./Home _ Mercados Plus_files/openlayers.js.descarga" id="directorist-openstreet-open-layers-js"></script>
+<script type="text/javascript" src="./Home _ Mercados Plus_files/crosshairs.js.descarga" id="directorist-openstreet-crosshairs-js"></script>
+<script type="text/javascript" src="./Home _ Mercados Plus_files/openstreet-map.js.descarga" id="directorist-openstreet-map-js"></script>
+<script type="text/javascript" defer="" src="./Home _ Mercados Plus_files/forms.js.descarga" id="mc4wp-forms-api-js"></script>
+<script type="text/javascript" src="./Home _ Mercados Plus_files/webpack.runtime.min.js.descarga" id="elementor-webpack-runtime-js"></script>
+<script type="text/javascript" src="./Home _ Mercados Plus_files/frontend-modules.min.js.descarga" id="elementor-frontend-modules-js"></script>
+<script type="text/javascript" src="./Home _ Mercados Plus_files/waypoints.min.js.descarga" id="elementor-waypoints-js"></script>
+<script type="text/javascript" src="./Home _ Mercados Plus_files/core.min.js.descarga" id="jquery-ui-core-js"></script>
+<script type="text/javascript" id="elementor-frontend-js-before">
+var elementorFrontendConfig = {"environmentMode":{"edit":false,"wpPreview":false,"isScriptDebug":false},"i18n":{"shareOnFacebook":"Compartir en Facebook","shareOnTwitter":"Compartir en Twitter","pinIt":"Pinear","download":"Descargar","downloadImage":"Descargar imagen","fullscreen":"Pantalla completa","zoom":"Zoom","share":"Compartir","playVideo":"Reproducir v\u00eddeo","previous":"Anterior","next":"Siguiente","close":"Cerrar","a11yCarouselWrapperAriaLabel":"Carrusel | Scroll horizontal: Flecha izquierda y derecha","a11yCarouselPrevSlideMessage":"Diapositiva anterior","a11yCarouselNextSlideMessage":"Diapositiva siguiente","a11yCarouselFirstSlideMessage":"Esta es la primera diapositiva","a11yCarouselLastSlideMessage":"Esta es la \u00faltima diapositiva","a11yCarouselPaginationBulletMessage":"Ir a la diapositiva"},"is_rtl":false,"breakpoints":{"xs":0,"sm":480,"md":768,"lg":1025,"xl":1440,"xxl":1600},"responsive":{"breakpoints":{"mobile":{"label":"M\u00f3vil vertical","value":767,"default_value":767,"direction":"max","is_enabled":true},"mobile_extra":{"label":"M\u00f3vil horizontal","value":880,"default_value":880,"direction":"max","is_enabled":false},"tablet":{"label":"Tableta vertical","value":1024,"default_value":1024,"direction":"max","is_enabled":true},"tablet_extra":{"label":"Tableta horizontal","value":1200,"default_value":1200,"direction":"max","is_enabled":false},"laptop":{"label":"Port\u00e1til","value":1366,"default_value":1366,"direction":"max","is_enabled":false},"widescreen":{"label":"Pantalla grande","value":2400,"default_value":2400,"direction":"min","is_enabled":false}}},"version":"3.15.0","is_static":false,"experimentalFeatures":{"e_dom_optimization":true,"e_optimized_assets_loading":true,"e_optimized_css_loading":true,"additional_custom_breakpoints":true,"landing-pages":true},"urls":{"assets":"https:\/\/mercadosplus.com\/wp-content\/plugins\/elementor\/assets\/"},"swiperClass":"swiper-container","settings":{"page":[],"editorPreferences":[]},"kit":{"active_breakpoints":["viewport_mobile","viewport_tablet"],"global_image_lightbox":"yes","lightbox_enable_counter":"yes","lightbox_enable_fullscreen":"yes","lightbox_enable_zoom":"yes","lightbox_enable_share":"yes","lightbox_title_src":"title","lightbox_description_src":"description"},"post":{"id":53,"title":"Home%20%7C%20Mercados%20Plus","excerpt":"","featuredImage":false}};
+</script>
+<script type="text/javascript" src="./Home _ Mercados Plus_files/frontend.min.js.descarga" id="elementor-frontend-js"></script><span id="elementor-device-mode" class="elementor-screen-only"></span>
+
+
+</body></html>
